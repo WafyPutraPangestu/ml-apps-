@@ -1,0 +1,44 @@
+version: '3.8'
+
+services:
+  redis:
+    image: redis:7-alpine
+    container_name: ticket_redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 3
+
+  ml-service:
+    build:
+      context: ./ml-service
+      dockerfile: Dockerfile
+    container_name: ticket_ml_service
+    ports:
+      - "5001:5001" 
+      - "8501:8501"
+    volumes:
+      - ./ml-service:/app
+      - ./dataset:/app/dataset
+    environment:
+      - REDIS_HOST=redis
+      - ML_API_KEY=rahasia-super-aman-123
+      - PYTHONUNBUFFERED=1
+    depends_on:
+      redis:
+        condition: service_healthy
+    restart: unless-stopped
+    command: python server_api.py
+
+volumes:
+  redis_data:
+
+networks:
+  default:
+    name: ticket_network

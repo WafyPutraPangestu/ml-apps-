@@ -1,0 +1,3 @@
+2025-11-25 19:09:46.798 | INFO     | __main__:<module>:26 - ✅ Model loaded
+2025-11-25 19:10:35.217 | INFO     | __main__:predict:86 - Prediction: Tinggi (0.72) | Internet Down | umkm
+2025-11-25 19:25:50.385 | INFO     | __main__:predict:86 - Prediction: Rendah (0.57) | Wifi | umkm

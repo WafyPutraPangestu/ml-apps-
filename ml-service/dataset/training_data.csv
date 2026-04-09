@@ -1,0 +1,1001 @@
+judul,deskripsi,kategori_gangguan,kategori_pelanggan,waktu_lapor,prioritas
+Server down urgent,Error terus muncul,Gangguan Sistem,Rumah,2025-11-06 20:15:30,Tinggi
+Server down urgent,Koneksi putus terus,Gangguan Sistem,Rumah,2025-10-21 20:15:30,Tinggi
+Loading lama,Koneksi sering terputus,Pertanyaan Teknis,Rumah,2025-10-16 20:15:30,Sedang
+Sistem error darurat,Error terus muncul,Gangguan Sistem,Perusahaan,2025-10-20 20:15:30,Tinggi
+Koneksi terputus,Sistem error sejak pagi,Gangguan Sistem,Perusahaan,2025-10-06 20:15:30,Tinggi
+Request akses,Request akses user baru,Gangguan Jaringan,Perusahaan,2025-11-08 20:15:30,Rendah
+Koneksi terputus,Sudah 3 jam tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-23 20:15:30,Tinggi
+Loading lama,Koneksi sering terputus,Gangguan Jaringan,Perusahaan,2025-11-11 20:15:30,Sedang
+Loading lama,Internet agak lambat,Gangguan Sistem,Perusahaan,2025-10-27 20:15:30,Sedang
+Request akses,Mau tanya cara setting,Gangguan Bandwidth,Rumah,2025-09-28 20:15:30,Rendah
+Loading lama,Loading aplikasi lama,Request Layanan,Perusahaan,2025-11-13 20:15:30,Sedang
+Internet lambat,Internet agak lambat,Gangguan Jaringan,Rumah,2025-09-29 20:15:30,Sedang
+Server down urgent,Sudah 8 jam tidak bisa akses,Gangguan Sistem,Rumah,2025-10-29 20:15:30,Tinggi
+Database tidak bisa diakses,Server down semua user tidak bisa akses,Gangguan Sistem,Perusahaan,2025-10-29 20:15:30,Tinggi
+Server down urgent,Error terus muncul,Gangguan Jaringan,UMKM,2025-10-07 20:15:30,Tinggi
+Koneksi tidak stabil,Koneksi tidak stabil,Gangguan Sistem,Rumah,2025-11-09 20:15:30,Sedang
+Sering terputus,Internet agak lambat,Gangguan Sistem,UMKM,2025-11-19 20:15:30,Sedang
+Pertanyaan setting,Mau konsultasi fitur,Gangguan Bandwidth,Rumah,2025-11-03 20:15:30,Rendah
+Pertanyaan setting,Mau konsultasi fitur,Gangguan Sistem,UMKM,2025-11-01 20:15:30,Rendah
+Server down urgent,Sudah 7 jam tidak bisa akses,Gangguan Sistem,UMKM,2025-11-17 20:15:30,Tinggi
+Koneksi tidak stabil,Loading aplikasi lama,Gangguan Bandwidth,Perusahaan,2025-11-25 20:15:30,Sedang
+Sistem error darurat,Error terus muncul,Gangguan Jaringan,UMKM,2025-10-20 20:15:30,Tinggi
+Database tidak bisa diakses,Error terus muncul,Gangguan Jaringan,Perusahaan,2025-10-18 20:15:30,Tinggi
+Sistem error darurat,Sudah 9 jam tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-09-30 20:15:30,Tinggi
+Konsultasi,Mau tanya cara setting,Gangguan Sistem,Rumah,2025-10-31 20:15:30,Rendah
+Upload gagal,Koneksi tidak stabil,Gangguan Bandwidth,Perusahaan,2025-11-13 20:15:30,Sedang
+Internet lambat,Koneksi sering terputus,Gangguan Sistem,Perusahaan,2025-11-23 20:15:30,Sedang
+Loading lama,Koneksi tidak stabil,Gangguan Bandwidth,UMKM,2025-11-08 20:15:30,Sedang
+Info layanan,Bisa bantu ganti password?,Request Layanan,UMKM,2025-11-04 20:15:30,Rendah
+Pertanyaan setting,Request akses user baru,Gangguan Bandwidth,Perusahaan,2025-11-04 20:15:30,Rendah
+Sering terputus,Internet agak lambat,Gangguan Jaringan,Perusahaan,2025-11-22 20:15:30,Sedang
+Sistem error darurat,Server down semua user tidak bisa akses,Gangguan Sistem,Perusahaan,2025-10-07 20:15:30,Tinggi
+Koneksi tidak stabil,Koneksi tidak stabil,Gangguan Bandwidth,UMKM,2025-11-07 20:15:30,Sedang
+Sering terputus,Internet agak lambat,Gangguan Jaringan,UMKM,2025-10-20 20:15:30,Sedang
+Konsultasi,Bisa bantu ganti password?,Gangguan Bandwidth,UMKM,2025-11-18 20:15:30,Rendah
+Sering terputus,Internet agak lambat,Gangguan Jaringan,Perusahaan,2025-10-08 20:15:30,Sedang
+Koneksi tidak stabil,Loading aplikasi lama,Request Layanan,Rumah,2025-10-24 20:15:30,Sedang
+Sering terputus,Internet agak lambat,Gangguan Jaringan,Rumah,2025-10-07 20:15:30,Sedang
+Internet lambat,Koneksi tidak stabil,Request Layanan,Rumah,2025-10-06 20:15:30,Sedang
+Internet lambat,Loading aplikasi lama,Gangguan Bandwidth,UMKM,2025-10-19 20:15:30,Sedang
+Pertanyaan setting,Bisa bantu ganti password?,Gangguan Jaringan,Perusahaan,2025-10-03 20:15:30,Rendah
+Pertanyaan setting,Mohon info upgrade paket,Gangguan Sistem,UMKM,2025-10-15 20:15:30,Rendah
+Database tidak bisa diakses,Server down semua user tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-25 20:15:30,Tinggi
+Koneksi terputus,Sudah 7 jam tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-09-27 20:15:30,Tinggi
+Sering terputus,Upload file gagal,Pertanyaan Teknis,Rumah,2025-11-25 20:15:30,Sedang
+Database tidak bisa diakses,Sistem error sejak pagi,Gangguan Sistem,Perusahaan,2025-11-13 20:15:30,Tinggi
+Upload gagal,Upload file gagal,Pertanyaan Teknis,Rumah,2025-11-15 20:15:30,Sedang
+Database tidak bisa diakses,Sudah 4 jam tidak bisa akses,Gangguan Sistem,Perusahaan,2025-10-25 20:15:30,Tinggi
+Loading lama,Internet agak lambat,Gangguan Jaringan,UMKM,2025-11-25 20:15:30,Sedang
+Loading lama,Loading aplikasi lama,Gangguan Sistem,UMKM,2025-11-20 20:15:30,Sedang
+Request akses,Bisa bantu ganti password?,Gangguan Jaringan,UMKM,2025-10-20 20:15:30,Rendah
+Upload gagal,Koneksi sering terputus,Gangguan Bandwidth,UMKM,2025-11-23 20:15:30,Sedang
+Sistem error darurat,Server down semua user tidak bisa akses,Gangguan Jaringan,UMKM,2025-10-18 20:15:30,Tinggi
+Sistem error darurat,Server down semua user tidak bisa akses,Gangguan Jaringan,Rumah,2025-11-22 20:15:30,Tinggi
+Internet mati total,Server down semua user tidak bisa akses,Gangguan Sistem,UMKM,2025-11-17 20:15:30,Tinggi
+Sistem error darurat,Error terus muncul,Gangguan Sistem,Perusahaan,2025-11-16 20:15:30,Tinggi
+Internet mati total,Koneksi putus terus,Gangguan Jaringan,Perusahaan,2025-10-17 20:15:30,Tinggi
+Upload gagal,Loading aplikasi lama,Gangguan Sistem,UMKM,2025-09-27 20:15:30,Sedang
+Cara ganti password,Mohon info upgrade paket,Gangguan Sistem,Rumah,2025-11-09 20:15:30,Rendah
+Internet lambat,Loading aplikasi lama,Pertanyaan Teknis,Perusahaan,2025-10-15 20:15:30,Sedang
+Koneksi terputus,Server down semua user tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-08 20:15:30,Tinggi
+Pertanyaan setting,Mau konsultasi fitur,Gangguan Jaringan,UMKM,2025-10-06 20:15:30,Rendah
+Pertanyaan setting,Request akses user baru,Gangguan Jaringan,Rumah,2025-10-27 20:15:30,Rendah
+Loading lama,Koneksi tidak stabil,Pertanyaan Teknis,Rumah,2025-11-09 20:15:30,Sedang
+Request akses,Mau tanya cara setting,Gangguan Sistem,Perusahaan,2025-10-07 20:15:30,Rendah
+Loading lama,Koneksi sering terputus,Pertanyaan Teknis,Rumah,2025-10-18 20:15:30,Sedang
+Sering terputus,Internet agak lambat,Request Layanan,UMKM,2025-11-20 20:15:30,Sedang
+Info layanan,Bisa bantu ganti password?,Gangguan Bandwidth,UMKM,2025-11-17 20:15:30,Rendah
+Pertanyaan setting,Mau konsultasi fitur,Gangguan Bandwidth,UMKM,2025-10-07 20:15:30,Rendah
+Loading lama,Internet agak lambat,Gangguan Sistem,UMKM,2025-10-24 20:15:30,Sedang
+Sistem error darurat,Error terus muncul,Gangguan Sistem,UMKM,2025-10-01 20:15:30,Tinggi
+Loading lama,Upload file gagal,Pertanyaan Teknis,UMKM,2025-11-05 20:15:30,Sedang
+Konsultasi,Mau konsultasi fitur,Gangguan Bandwidth,Rumah,2025-11-16 20:15:30,Rendah
+Sistem error darurat,Sistem error sejak pagi,Gangguan Jaringan,Perusahaan,2025-10-03 20:15:30,Tinggi
+Request akses,Mau konsultasi fitur,Request Layanan,UMKM,2025-11-06 20:15:30,Rendah
+Server down urgent,Error terus muncul,Gangguan Sistem,Perusahaan,2025-10-04 20:15:30,Tinggi
+Cara ganti password,Bisa bantu ganti password?,Request Layanan,Rumah,2025-10-13 20:15:30,Rendah
+Cara ganti password,Request akses user baru,Pertanyaan Teknis,UMKM,2025-09-27 20:15:30,Rendah
+Sering terputus,Koneksi sering terputus,Gangguan Jaringan,Rumah,2025-11-07 20:15:30,Sedang
+Koneksi tidak stabil,Internet agak lambat,Pertanyaan Teknis,UMKM,2025-11-16 20:15:30,Sedang
+Koneksi tidak stabil,Upload file gagal,Request Layanan,Perusahaan,2025-10-15 20:15:30,Sedang
+Cara ganti password,Bisa bantu ganti password?,Gangguan Bandwidth,Perusahaan,2025-11-25 20:15:30,Rendah
+Sering terputus,Upload file gagal,Gangguan Bandwidth,Perusahaan,2025-11-11 20:15:30,Sedang
+Sistem error darurat,Sudah 7 jam tidak bisa akses,Gangguan Sistem,Rumah,2025-10-12 20:15:30,Tinggi
+Koneksi tidak stabil,Loading aplikasi lama,Request Layanan,Perusahaan,2025-10-24 20:15:30,Sedang
+Request akses,Mau konsultasi fitur,Pertanyaan Teknis,Rumah,2025-10-25 20:15:30,Rendah
+Internet lambat,Loading aplikasi lama,Gangguan Bandwidth,UMKM,2025-10-06 20:15:30,Sedang
+Request akses,Bisa bantu ganti password?,Gangguan Bandwidth,UMKM,2025-11-02 20:15:30,Rendah
+Loading lama,Koneksi sering terputus,Gangguan Sistem,Perusahaan,2025-10-31 20:15:30,Sedang
+Cara ganti password,Mohon info upgrade paket,Request Layanan,Perusahaan,2025-10-17 20:15:30,Rendah
+Koneksi tidak stabil,Koneksi tidak stabil,Request Layanan,UMKM,2025-09-26 20:15:30,Sedang
+Server down urgent,Error terus muncul,Gangguan Sistem,Perusahaan,2025-10-31 20:15:30,Tinggi
+Database tidak bisa diakses,Server down semua user tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-10-20 20:15:30,Tinggi
+Konsultasi,Mau tanya cara setting,Pertanyaan Teknis,Perusahaan,2025-11-23 20:15:30,Rendah
+Server down urgent,Sudah 7 jam tidak bisa akses,Gangguan Sistem,Rumah,2025-10-06 20:15:30,Tinggi
+Konsultasi,Mau konsultasi fitur,Request Layanan,UMKM,2025-11-08 20:15:30,Rendah
+Server down urgent,Server down semua user tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-10-16 20:15:30,Tinggi
+Internet lambat,Koneksi sering terputus,Gangguan Bandwidth,Rumah,2025-10-11 20:15:30,Sedang
+Internet mati total,Sudah 5 jam tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-05 20:15:30,Tinggi
+Loading lama,Koneksi sering terputus,Request Layanan,Rumah,2025-11-11 20:15:30,Sedang
+Request akses,Request akses user baru,Gangguan Bandwidth,UMKM,2025-11-19 20:15:30,Rendah
+Internet mati total,Sudah 11 jam tidak bisa akses,Gangguan Sistem,UMKM,2025-11-18 20:15:30,Tinggi
+Cara ganti password,Bisa bantu ganti password?,Pertanyaan Teknis,UMKM,2025-10-23 20:15:30,Rendah
+Database tidak bisa diakses,Sistem error sejak pagi,Gangguan Jaringan,Perusahaan,2025-11-15 20:15:30,Tinggi
+Sering terputus,Koneksi sering terputus,Gangguan Bandwidth,Perusahaan,2025-11-06 20:15:30,Sedang
+Server down urgent,Server down semua user tidak bisa akses,Gangguan Jaringan,Rumah,2025-10-28 20:15:30,Tinggi
+Sistem error darurat,Error terus muncul,Gangguan Jaringan,Perusahaan,2025-11-02 20:15:30,Tinggi
+Sering terputus,Upload file gagal,Pertanyaan Teknis,UMKM,2025-11-19 20:15:30,Sedang
+Konsultasi,Mau tanya cara setting,Gangguan Bandwidth,Perusahaan,2025-10-02 20:15:30,Rendah
+Internet lambat,Koneksi sering terputus,Gangguan Bandwidth,Rumah,2025-10-07 20:15:30,Sedang
+Internet lambat,Upload file gagal,Request Layanan,Perusahaan,2025-10-04 20:15:30,Sedang
+Konsultasi,Bisa bantu ganti password?,Gangguan Jaringan,UMKM,2025-11-12 20:15:30,Rendah
+Info layanan,Mau tanya cara setting,Request Layanan,UMKM,2025-11-21 20:15:30,Rendah
+Konsultasi,Request akses user baru,Pertanyaan Teknis,Rumah,2025-10-06 20:15:30,Rendah
+Database tidak bisa diakses,Error terus muncul,Gangguan Sistem,Perusahaan,2025-11-02 20:15:30,Tinggi
+Loading lama,Internet agak lambat,Pertanyaan Teknis,Rumah,2025-11-11 20:15:30,Sedang
+Koneksi tidak stabil,Koneksi sering terputus,Request Layanan,UMKM,2025-10-01 20:15:30,Sedang
+Sering terputus,Loading aplikasi lama,Gangguan Sistem,Rumah,2025-11-02 20:15:30,Sedang
+Sistem error darurat,Sudah 12 jam tidak bisa akses,Gangguan Sistem,Rumah,2025-10-04 20:15:30,Tinggi
+Internet lambat,Internet agak lambat,Pertanyaan Teknis,Perusahaan,2025-11-18 20:15:30,Sedang
+Internet mati total,Error terus muncul,Gangguan Sistem,UMKM,2025-11-21 20:15:30,Tinggi
+Request akses,Bisa bantu ganti password?,Request Layanan,Perusahaan,2025-11-11 20:15:30,Rendah
+Cara ganti password,Request akses user baru,Gangguan Jaringan,Perusahaan,2025-10-23 20:15:30,Rendah
+Info layanan,Mohon info upgrade paket,Request Layanan,Rumah,2025-10-13 20:15:30,Rendah
+Sering terputus,Loading aplikasi lama,Request Layanan,Rumah,2025-10-03 20:15:30,Sedang
+Pertanyaan setting,Mau tanya cara setting,Pertanyaan Teknis,UMKM,2025-10-02 20:15:30,Rendah
+Internet lambat,Loading aplikasi lama,Gangguan Sistem,UMKM,2025-11-22 20:15:30,Sedang
+Internet lambat,Koneksi sering terputus,Gangguan Jaringan,Rumah,2025-11-22 20:15:30,Sedang
+Loading lama,Internet agak lambat,Gangguan Bandwidth,Rumah,2025-11-22 20:15:30,Sedang
+Pertanyaan setting,Mau konsultasi fitur,Gangguan Jaringan,Perusahaan,2025-11-19 20:15:30,Rendah
+Loading lama,Koneksi sering terputus,Pertanyaan Teknis,Rumah,2025-09-28 20:15:30,Sedang
+Sering terputus,Koneksi tidak stabil,Gangguan Jaringan,Perusahaan,2025-11-08 20:15:30,Sedang
+Upload gagal,Upload file gagal,Gangguan Sistem,Rumah,2025-11-06 20:15:30,Sedang
+Upload gagal,Koneksi tidak stabil,Gangguan Jaringan,Perusahaan,2025-11-24 20:15:30,Sedang
+Cara ganti password,Mau konsultasi fitur,Gangguan Bandwidth,UMKM,2025-11-03 20:15:30,Rendah
+Upload gagal,Internet agak lambat,Request Layanan,Perusahaan,2025-09-27 20:15:30,Sedang
+Loading lama,Koneksi tidak stabil,Gangguan Sistem,Rumah,2025-10-14 20:15:30,Sedang
+Koneksi tidak stabil,Upload file gagal,Gangguan Sistem,Perusahaan,2025-11-21 20:15:30,Sedang
+Upload gagal,Koneksi tidak stabil,Gangguan Jaringan,Perusahaan,2025-10-08 20:15:30,Sedang
+Request akses,Mau tanya cara setting,Pertanyaan Teknis,Rumah,2025-11-03 20:15:30,Rendah
+Sering terputus,Upload file gagal,Request Layanan,UMKM,2025-11-04 20:15:30,Sedang
+Info layanan,Mau tanya cara setting,Gangguan Jaringan,Perusahaan,2025-10-30 20:15:30,Rendah
+Koneksi tidak stabil,Upload file gagal,Gangguan Sistem,Perusahaan,2025-11-05 20:15:30,Sedang
+Konsultasi,Mau tanya cara setting,Pertanyaan Teknis,UMKM,2025-10-18 20:15:30,Rendah
+Database tidak bisa diakses,Sistem error sejak pagi,Gangguan Sistem,Perusahaan,2025-11-05 20:15:30,Tinggi
+Internet mati total,Koneksi putus terus,Gangguan Sistem,Perusahaan,2025-10-19 20:15:30,Tinggi
+Internet lambat,Loading aplikasi lama,Request Layanan,Rumah,2025-10-29 20:15:30,Sedang
+Internet lambat,Loading aplikasi lama,Gangguan Bandwidth,UMKM,2025-11-19 20:15:30,Sedang
+Server down urgent,Sudah 2 jam tidak bisa akses,Gangguan Sistem,Perusahaan,2025-10-31 20:15:30,Tinggi
+Sistem error darurat,Error terus muncul,Gangguan Jaringan,Rumah,2025-10-17 20:15:30,Tinggi
+Info layanan,Mau tanya cara setting,Gangguan Sistem,Perusahaan,2025-09-27 20:15:30,Rendah
+Internet mati total,Sudah 8 jam tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-02 20:15:30,Tinggi
+Internet mati total,Koneksi putus terus,Gangguan Jaringan,Perusahaan,2025-10-25 20:15:30,Tinggi
+Upload gagal,Loading aplikasi lama,Gangguan Jaringan,Rumah,2025-10-31 20:15:30,Sedang
+Konsultasi,Bisa bantu ganti password?,Request Layanan,UMKM,2025-09-28 20:15:30,Rendah
+Loading lama,Internet agak lambat,Pertanyaan Teknis,Perusahaan,2025-11-20 20:15:30,Sedang
+Loading lama,Loading aplikasi lama,Gangguan Jaringan,Perusahaan,2025-11-22 20:15:30,Sedang
+Server down urgent,Sudah 10 jam tidak bisa akses,Gangguan Sistem,Perusahaan,2025-10-28 20:15:30,Tinggi
+Internet mati total,Error terus muncul,Gangguan Jaringan,Rumah,2025-09-27 20:15:30,Tinggi
+Internet lambat,Loading aplikasi lama,Pertanyaan Teknis,Rumah,2025-11-06 20:15:30,Sedang
+Upload gagal,Upload file gagal,Gangguan Sistem,UMKM,2025-11-04 20:15:30,Sedang
+Upload gagal,Koneksi sering terputus,Gangguan Sistem,Rumah,2025-10-06 20:15:30,Sedang
+Internet lambat,Loading aplikasi lama,Gangguan Sistem,Rumah,2025-11-11 20:15:30,Sedang
+Koneksi terputus,Sudah 8 jam tidak bisa akses,Gangguan Jaringan,UMKM,2025-11-24 20:15:30,Tinggi
+Cara ganti password,Mohon info upgrade paket,Gangguan Jaringan,Rumah,2025-11-01 20:15:30,Rendah
+Internet lambat,Upload file gagal,Gangguan Sistem,Rumah,2025-11-06 20:15:30,Sedang
+Server down urgent,Koneksi putus terus,Gangguan Sistem,Rumah,2025-11-09 20:15:30,Tinggi
+Konsultasi,Request akses user baru,Gangguan Sistem,Rumah,2025-10-31 20:15:30,Rendah
+Request akses,Bisa bantu ganti password?,Request Layanan,UMKM,2025-10-15 20:15:30,Rendah
+Koneksi tidak stabil,Upload file gagal,Pertanyaan Teknis,Perusahaan,2025-11-05 20:15:30,Sedang
+Internet lambat,Upload file gagal,Gangguan Jaringan,UMKM,2025-10-02 20:15:30,Sedang
+Server down urgent,Server down semua user tidak bisa akses,Gangguan Jaringan,UMKM,2025-11-18 20:15:30,Tinggi
+Sering terputus,Loading aplikasi lama,Pertanyaan Teknis,UMKM,2025-11-02 20:15:30,Sedang
+Konsultasi,Mau konsultasi fitur,Request Layanan,UMKM,2025-10-27 20:15:30,Rendah
+Server down urgent,Server down semua user tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-15 20:15:30,Tinggi
+Loading lama,Internet agak lambat,Gangguan Bandwidth,UMKM,2025-10-13 20:15:30,Sedang
+Server down urgent,Sudah 8 jam tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-11-07 20:15:30,Tinggi
+Loading lama,Koneksi sering terputus,Gangguan Bandwidth,UMKM,2025-09-30 20:15:30,Sedang
+Loading lama,Loading aplikasi lama,Gangguan Jaringan,Rumah,2025-11-08 20:15:30,Sedang
+Koneksi terputus,Sudah 2 jam tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-11-04 20:15:30,Tinggi
+Sistem error darurat,Sistem error sejak pagi,Gangguan Jaringan,Perusahaan,2025-11-05 20:15:30,Tinggi
+Sering terputus,Koneksi tidak stabil,Gangguan Sistem,Rumah,2025-10-07 20:15:30,Sedang
+Request akses,Request akses user baru,Request Layanan,Rumah,2025-10-09 20:15:30,Rendah
+Server down urgent,Server down semua user tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-10-19 20:15:30,Tinggi
+Sering terputus,Koneksi tidak stabil,Pertanyaan Teknis,UMKM,2025-09-26 20:15:30,Sedang
+Pertanyaan setting,Mau tanya cara setting,Gangguan Sistem,Rumah,2025-10-08 20:15:30,Rendah
+Pertanyaan setting,Mohon info upgrade paket,Gangguan Bandwidth,UMKM,2025-11-21 20:15:30,Rendah
+Sistem error darurat,Sudah 12 jam tidak bisa akses,Gangguan Jaringan,UMKM,2025-10-13 20:15:30,Tinggi
+Database tidak bisa diakses,Koneksi putus terus,Gangguan Sistem,Rumah,2025-10-31 20:15:30,Tinggi
+Info layanan,Bisa bantu ganti password?,Gangguan Sistem,Rumah,2025-10-14 20:15:30,Rendah
+Cara ganti password,Mau konsultasi fitur,Request Layanan,Rumah,2025-10-31 20:15:30,Rendah
+Cara ganti password,Mau konsultasi fitur,Gangguan Jaringan,Rumah,2025-10-18 20:15:30,Rendah
+Loading lama,Koneksi sering terputus,Gangguan Sistem,UMKM,2025-10-28 20:15:30,Sedang
+Pertanyaan setting,Mau konsultasi fitur,Gangguan Jaringan,Perusahaan,2025-10-20 20:15:30,Rendah
+Koneksi terputus,Server down semua user tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-16 20:15:30,Tinggi
+Sering terputus,Loading aplikasi lama,Gangguan Jaringan,Perusahaan,2025-10-31 20:15:30,Sedang
+Info layanan,Request akses user baru,Gangguan Bandwidth,Perusahaan,2025-11-18 20:15:30,Rendah
+Koneksi tidak stabil,Internet agak lambat,Gangguan Jaringan,Rumah,2025-10-12 20:15:30,Sedang
+Pertanyaan setting,Mohon info upgrade paket,Pertanyaan Teknis,UMKM,2025-11-07 20:15:30,Rendah
+Request akses,Bisa bantu ganti password?,Request Layanan,Rumah,2025-11-18 20:15:30,Rendah
+Loading lama,Internet agak lambat,Gangguan Jaringan,Rumah,2025-11-06 20:15:30,Sedang
+Sering terputus,Koneksi tidak stabil,Request Layanan,Perusahaan,2025-11-05 20:15:30,Sedang
+Database tidak bisa diakses,Sistem error sejak pagi,Gangguan Sistem,Perusahaan,2025-10-28 20:15:30,Tinggi
+Request akses,Mohon info upgrade paket,Gangguan Sistem,UMKM,2025-11-23 20:15:30,Rendah
+Internet lambat,Loading aplikasi lama,Gangguan Jaringan,Perusahaan,2025-10-07 20:15:30,Sedang
+Database tidak bisa diakses,Error terus muncul,Gangguan Jaringan,UMKM,2025-10-10 20:15:30,Tinggi
+Cara ganti password,Bisa bantu ganti password?,Gangguan Jaringan,UMKM,2025-10-19 20:15:30,Rendah
+Info layanan,Request akses user baru,Request Layanan,UMKM,2025-10-11 20:15:30,Rendah
+Internet mati total,Server down semua user tidak bisa akses,Gangguan Jaringan,Rumah,2025-10-07 20:15:30,Tinggi
+Server down urgent,Sistem error sejak pagi,Gangguan Jaringan,Rumah,2025-09-29 20:15:30,Tinggi
+Pertanyaan setting,Bisa bantu ganti password?,Pertanyaan Teknis,Perusahaan,2025-11-02 20:15:30,Rendah
+Konsultasi,Mau konsultasi fitur,Gangguan Bandwidth,Perusahaan,2025-10-02 20:15:30,Rendah
+Koneksi terputus,Server down semua user tidak bisa akses,Gangguan Sistem,Rumah,2025-10-28 20:15:30,Tinggi
+Server down urgent,Sistem error sejak pagi,Gangguan Sistem,UMKM,2025-11-05 20:15:30,Tinggi
+Request akses,Bisa bantu ganti password?,Gangguan Jaringan,UMKM,2025-10-24 20:15:30,Rendah
+Koneksi terputus,Sistem error sejak pagi,Gangguan Jaringan,Perusahaan,2025-11-16 20:15:30,Tinggi
+Info layanan,Mau konsultasi fitur,Gangguan Sistem,UMKM,2025-09-30 20:15:30,Rendah
+Upload gagal,Internet agak lambat,Request Layanan,Rumah,2025-09-26 20:15:30,Sedang
+Koneksi terputus,Sudah 6 jam tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-10-04 20:15:30,Tinggi
+Request akses,Mohon info upgrade paket,Gangguan Jaringan,Rumah,2025-10-16 20:15:30,Rendah
+Internet lambat,Loading aplikasi lama,Pertanyaan Teknis,UMKM,2025-11-13 20:15:30,Sedang
+Database tidak bisa diakses,Koneksi putus terus,Gangguan Sistem,Perusahaan,2025-11-11 20:15:30,Tinggi
+Internet lambat,Internet agak lambat,Gangguan Sistem,Rumah,2025-10-22 20:15:30,Sedang
+Database tidak bisa diakses,Error terus muncul,Gangguan Jaringan,UMKM,2025-11-11 20:15:30,Tinggi
+Koneksi tidak stabil,Koneksi tidak stabil,Pertanyaan Teknis,Rumah,2025-11-22 20:15:30,Sedang
+Internet lambat,Upload file gagal,Gangguan Sistem,Perusahaan,2025-11-20 20:15:30,Sedang
+Koneksi terputus,Server down semua user tidak bisa akses,Gangguan Jaringan,Rumah,2025-11-05 20:15:30,Tinggi
+Sistem error darurat,Server down semua user tidak bisa akses,Gangguan Sistem,Perusahaan,2025-09-27 20:15:30,Tinggi
+Sering terputus,Koneksi sering terputus,Gangguan Bandwidth,Rumah,2025-10-25 20:15:30,Sedang
+Request akses,Mau konsultasi fitur,Gangguan Bandwidth,UMKM,2025-10-22 20:15:30,Rendah
+Koneksi terputus,Sudah 11 jam tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-10-21 20:15:30,Tinggi
+Cara ganti password,Request akses user baru,Request Layanan,UMKM,2025-11-12 20:15:30,Rendah
+Database tidak bisa diakses,Sudah 10 jam tidak bisa akses,Gangguan Sistem,UMKM,2025-10-23 20:15:30,Tinggi
+Request akses,Bisa bantu ganti password?,Request Layanan,Perusahaan,2025-10-21 20:15:30,Rendah
+Koneksi tidak stabil,Internet agak lambat,Gangguan Sistem,UMKM,2025-11-10 20:15:30,Sedang
+Loading lama,Loading aplikasi lama,Request Layanan,UMKM,2025-10-22 20:15:30,Sedang
+Sistem error darurat,Server down semua user tidak bisa akses,Gangguan Jaringan,UMKM,2025-10-15 20:15:30,Tinggi
+Upload gagal,Koneksi sering terputus,Gangguan Jaringan,Rumah,2025-10-14 20:15:30,Sedang
+Upload gagal,Internet agak lambat,Pertanyaan Teknis,Perusahaan,2025-11-16 20:15:30,Sedang
+Internet mati total,Server down semua user tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-09-28 20:15:30,Tinggi
+Sistem error darurat,Sudah 11 jam tidak bisa akses,Gangguan Jaringan,UMKM,2025-10-06 20:15:30,Tinggi
+Cara ganti password,Mohon info upgrade paket,Gangguan Sistem,Rumah,2025-10-03 20:15:30,Rendah
+Loading lama,Koneksi tidak stabil,Request Layanan,UMKM,2025-11-14 20:15:30,Sedang
+Sistem error darurat,Sudah 6 jam tidak bisa akses,Gangguan Sistem,Perusahaan,2025-10-15 20:15:30,Tinggi
+Sering terputus,Koneksi tidak stabil,Gangguan Jaringan,Rumah,2025-11-08 20:15:30,Sedang
+Koneksi terputus,Server down semua user tidak bisa akses,Gangguan Sistem,UMKM,2025-10-10 20:15:30,Tinggi
+Sering terputus,Upload file gagal,Gangguan Bandwidth,UMKM,2025-09-27 20:15:30,Sedang
+Konsultasi,Mau konsultasi fitur,Gangguan Jaringan,Rumah,2025-10-15 20:15:30,Rendah
+Info layanan,Bisa bantu ganti password?,Gangguan Bandwidth,UMKM,2025-11-08 20:15:30,Rendah
+Internet mati total,Sistem error sejak pagi,Gangguan Jaringan,Rumah,2025-11-24 20:15:30,Tinggi
+Internet lambat,Internet agak lambat,Request Layanan,Perusahaan,2025-10-10 20:15:30,Sedang
+Sistem error darurat,Sistem error sejak pagi,Gangguan Sistem,Perusahaan,2025-09-30 20:15:30,Tinggi
+Koneksi tidak stabil,Koneksi tidak stabil,Gangguan Jaringan,UMKM,2025-10-13 20:15:30,Sedang
+Internet lambat,Internet agak lambat,Pertanyaan Teknis,UMKM,2025-10-17 20:15:30,Sedang
+Internet lambat,Upload file gagal,Gangguan Sistem,Perusahaan,2025-10-31 20:15:30,Sedang
+Info layanan,Mau tanya cara setting,Request Layanan,Perusahaan,2025-11-01 20:15:30,Rendah
+Request akses,Mau konsultasi fitur,Gangguan Bandwidth,Rumah,2025-11-24 20:15:30,Rendah
+Request akses,Mau tanya cara setting,Gangguan Bandwidth,Perusahaan,2025-10-21 20:15:30,Rendah
+Upload gagal,Koneksi tidak stabil,Gangguan Bandwidth,Perusahaan,2025-10-04 20:15:30,Sedang
+Upload gagal,Koneksi sering terputus,Gangguan Sistem,UMKM,2025-09-28 20:15:30,Sedang
+Info layanan,Mohon info upgrade paket,Request Layanan,UMKM,2025-11-23 20:15:30,Rendah
+Koneksi terputus,Koneksi putus terus,Gangguan Jaringan,Perusahaan,2025-11-08 20:15:30,Tinggi
+Server down urgent,Server down semua user tidak bisa akses,Gangguan Sistem,Perusahaan,2025-10-03 20:15:30,Tinggi
+Database tidak bisa diakses,Sistem error sejak pagi,Gangguan Sistem,Rumah,2025-10-23 20:15:30,Tinggi
+Loading lama,Loading aplikasi lama,Request Layanan,Rumah,2025-11-08 20:15:30,Sedang
+Info layanan,Mau tanya cara setting,Request Layanan,UMKM,2025-10-02 20:15:30,Rendah
+Server down urgent,Sudah 5 jam tidak bisa akses,Gangguan Sistem,Perusahaan,2025-10-10 20:15:30,Tinggi
+Sistem error darurat,Koneksi putus terus,Gangguan Jaringan,Perusahaan,2025-10-18 20:15:30,Tinggi
+Internet mati total,Error terus muncul,Gangguan Sistem,Perusahaan,2025-09-29 20:15:30,Tinggi
+Loading lama,Koneksi tidak stabil,Request Layanan,Perusahaan,2025-11-14 20:15:30,Sedang
+Cara ganti password,Mohon info upgrade paket,Pertanyaan Teknis,Rumah,2025-10-12 20:15:30,Rendah
+Konsultasi,Mohon info upgrade paket,Gangguan Bandwidth,UMKM,2025-11-25 20:15:30,Rendah
+Request akses,Request akses user baru,Gangguan Jaringan,UMKM,2025-09-26 20:15:30,Rendah
+Koneksi tidak stabil,Koneksi tidak stabil,Gangguan Sistem,Rumah,2025-10-06 20:15:30,Sedang
+Sering terputus,Koneksi tidak stabil,Gangguan Sistem,Perusahaan,2025-11-01 20:15:30,Sedang
+Internet lambat,Upload file gagal,Request Layanan,UMKM,2025-10-07 20:15:30,Sedang
+Koneksi tidak stabil,Upload file gagal,Gangguan Bandwidth,Perusahaan,2025-11-04 20:15:30,Sedang
+Konsultasi,Mau tanya cara setting,Gangguan Jaringan,Perusahaan,2025-10-06 20:15:30,Rendah
+Cara ganti password,Mau konsultasi fitur,Pertanyaan Teknis,UMKM,2025-10-11 20:15:30,Rendah
+Cara ganti password,Request akses user baru,Gangguan Bandwidth,Perusahaan,2025-10-01 20:15:30,Rendah
+Koneksi terputus,Sudah 6 jam tidak bisa akses,Gangguan Jaringan,UMKM,2025-10-01 20:15:30,Tinggi
+Sering terputus,Loading aplikasi lama,Gangguan Jaringan,Perusahaan,2025-10-02 20:15:30,Sedang
+Konsultasi,Mau konsultasi fitur,Gangguan Sistem,Perusahaan,2025-10-15 20:15:30,Rendah
+Server down urgent,Error terus muncul,Gangguan Sistem,Rumah,2025-11-01 20:15:30,Tinggi
+Internet lambat,Koneksi sering terputus,Gangguan Bandwidth,Perusahaan,2025-11-23 20:15:30,Sedang
+Info layanan,Mau tanya cara setting,Request Layanan,Rumah,2025-10-03 20:15:30,Rendah
+Koneksi tidak stabil,Loading aplikasi lama,Request Layanan,Perusahaan,2025-11-19 20:15:30,Sedang
+Sering terputus,Koneksi tidak stabil,Gangguan Jaringan,Rumah,2025-11-20 20:15:30,Sedang
+Sering terputus,Loading aplikasi lama,Gangguan Sistem,Rumah,2025-10-13 20:15:30,Sedang
+Koneksi terputus,Sudah 11 jam tidak bisa akses,Gangguan Sistem,Perusahaan,2025-10-24 20:15:30,Tinggi
+Sering terputus,Koneksi sering terputus,Pertanyaan Teknis,UMKM,2025-11-07 20:15:30,Sedang
+Sistem error darurat,Sudah 8 jam tidak bisa akses,Gangguan Jaringan,Rumah,2025-10-28 20:15:30,Tinggi
+Sering terputus,Koneksi sering terputus,Request Layanan,Perusahaan,2025-09-27 20:15:30,Sedang
+Request akses,Bisa bantu ganti password?,Gangguan Sistem,Rumah,2025-09-28 20:15:30,Rendah
+Server down urgent,Sudah 12 jam tidak bisa akses,Gangguan Sistem,Rumah,2025-10-07 20:15:30,Tinggi
+Internet lambat,Upload file gagal,Gangguan Bandwidth,Rumah,2025-11-22 20:15:30,Sedang
+Internet lambat,Loading aplikasi lama,Request Layanan,Perusahaan,2025-11-10 20:15:30,Sedang
+Server down urgent,Sistem error sejak pagi,Gangguan Sistem,Perusahaan,2025-11-05 20:15:30,Tinggi
+Cara ganti password,Request akses user baru,Gangguan Bandwidth,UMKM,2025-10-11 20:15:30,Rendah
+Internet mati total,Sistem error sejak pagi,Gangguan Sistem,Rumah,2025-10-08 20:15:30,Tinggi
+Konsultasi,Bisa bantu ganti password?,Gangguan Jaringan,UMKM,2025-09-28 20:15:30,Rendah
+Pertanyaan setting,Mau tanya cara setting,Gangguan Bandwidth,Perusahaan,2025-11-01 20:15:30,Rendah
+Sering terputus,Koneksi tidak stabil,Gangguan Jaringan,Rumah,2025-10-04 20:15:30,Sedang
+Internet mati total,Server down semua user tidak bisa akses,Gangguan Sistem,Perusahaan,2025-10-08 20:15:30,Tinggi
+Internet mati total,Sistem error sejak pagi,Gangguan Sistem,Perusahaan,2025-10-26 20:15:30,Tinggi
+Info layanan,Request akses user baru,Gangguan Sistem,Perusahaan,2025-10-12 20:15:30,Rendah
+Koneksi terputus,Sistem error sejak pagi,Gangguan Jaringan,Perusahaan,2025-10-21 20:15:30,Tinggi
+Konsultasi,Mau konsultasi fitur,Gangguan Jaringan,Perusahaan,2025-11-21 20:15:30,Rendah
+Server down urgent,Server down semua user tidak bisa akses,Gangguan Sistem,Perusahaan,2025-10-24 20:15:30,Tinggi
+Loading lama,Upload file gagal,Pertanyaan Teknis,Perusahaan,2025-10-02 20:15:30,Sedang
+Internet mati total,Server down semua user tidak bisa akses,Gangguan Sistem,Perusahaan,2025-10-19 20:15:30,Tinggi
+Upload gagal,Upload file gagal,Gangguan Sistem,Perusahaan,2025-10-03 20:15:30,Sedang
+Koneksi terputus,Sudah 7 jam tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-18 20:15:30,Tinggi
+Sering terputus,Upload file gagal,Pertanyaan Teknis,Rumah,2025-10-26 20:15:30,Sedang
+Upload gagal,Koneksi sering terputus,Request Layanan,Rumah,2025-10-06 20:15:30,Sedang
+Konsultasi,Request akses user baru,Request Layanan,Perusahaan,2025-11-10 20:15:30,Rendah
+Loading lama,Loading aplikasi lama,Pertanyaan Teknis,UMKM,2025-10-05 20:15:30,Sedang
+Pertanyaan setting,Request akses user baru,Gangguan Bandwidth,UMKM,2025-10-14 20:15:30,Rendah
+Internet lambat,Koneksi sering terputus,Gangguan Bandwidth,Rumah,2025-11-13 20:15:30,Sedang
+Server down urgent,Error terus muncul,Gangguan Jaringan,Perusahaan,2025-10-08 20:15:30,Tinggi
+Upload gagal,Upload file gagal,Gangguan Bandwidth,Perusahaan,2025-10-23 20:15:30,Sedang
+Database tidak bisa diakses,Koneksi putus terus,Gangguan Jaringan,Perusahaan,2025-09-30 20:15:30,Tinggi
+Info layanan,Mau tanya cara setting,Request Layanan,Rumah,2025-10-09 20:15:30,Rendah
+Internet lambat,Koneksi sering terputus,Pertanyaan Teknis,Perusahaan,2025-10-22 20:15:30,Sedang
+Cara ganti password,Request akses user baru,Gangguan Jaringan,Rumah,2025-11-18 20:15:30,Rendah
+Loading lama,Koneksi tidak stabil,Pertanyaan Teknis,Perusahaan,2025-11-11 20:15:30,Sedang
+Cara ganti password,Mau tanya cara setting,Pertanyaan Teknis,Perusahaan,2025-11-17 20:15:30,Rendah
+Koneksi tidak stabil,Internet agak lambat,Gangguan Jaringan,UMKM,2025-10-02 20:15:30,Sedang
+Info layanan,Mohon info upgrade paket,Pertanyaan Teknis,UMKM,2025-10-06 20:15:30,Rendah
+Info layanan,Mau tanya cara setting,Pertanyaan Teknis,Rumah,2025-10-14 20:15:30,Rendah
+Pertanyaan setting,Mau tanya cara setting,Gangguan Jaringan,Perusahaan,2025-10-06 20:15:30,Rendah
+Loading lama,Koneksi sering terputus,Request Layanan,Rumah,2025-10-10 20:15:30,Sedang
+Info layanan,Mau konsultasi fitur,Pertanyaan Teknis,Perusahaan,2025-11-15 20:15:30,Rendah
+Server down urgent,Sistem error sejak pagi,Gangguan Jaringan,Perusahaan,2025-11-07 20:15:30,Tinggi
+Koneksi tidak stabil,Koneksi sering terputus,Pertanyaan Teknis,Rumah,2025-10-19 20:15:30,Sedang
+Database tidak bisa diakses,Sudah 9 jam tidak bisa akses,Gangguan Sistem,Perusahaan,2025-10-08 20:15:30,Tinggi
+Request akses,Mau tanya cara setting,Request Layanan,Rumah,2025-10-19 20:15:30,Rendah
+Koneksi tidak stabil,Loading aplikasi lama,Gangguan Bandwidth,UMKM,2025-10-12 20:15:30,Sedang
+Pertanyaan setting,Mau konsultasi fitur,Gangguan Sistem,Rumah,2025-11-23 20:15:30,Rendah
+Konsultasi,Mau konsultasi fitur,Gangguan Jaringan,Perusahaan,2025-10-07 20:15:30,Rendah
+Upload gagal,Koneksi tidak stabil,Request Layanan,UMKM,2025-09-27 20:15:30,Sedang
+Koneksi tidak stabil,Koneksi tidak stabil,Gangguan Bandwidth,Rumah,2025-10-09 20:15:30,Sedang
+Internet lambat,Koneksi tidak stabil,Gangguan Bandwidth,UMKM,2025-10-26 20:15:30,Sedang
+Upload gagal,Upload file gagal,Gangguan Sistem,Rumah,2025-10-05 20:15:30,Sedang
+Database tidak bisa diakses,Koneksi putus terus,Gangguan Jaringan,Perusahaan,2025-10-12 20:15:30,Tinggi
+Koneksi tidak stabil,Upload file gagal,Gangguan Bandwidth,Rumah,2025-10-18 20:15:30,Sedang
+Internet lambat,Loading aplikasi lama,Gangguan Jaringan,Rumah,2025-10-18 20:15:30,Sedang
+Koneksi tidak stabil,Upload file gagal,Pertanyaan Teknis,Perusahaan,2025-10-04 20:15:30,Sedang
+Internet mati total,Sistem error sejak pagi,Gangguan Sistem,Perusahaan,2025-10-23 20:15:30,Tinggi
+Koneksi tidak stabil,Upload file gagal,Gangguan Bandwidth,Rumah,2025-10-25 20:15:30,Sedang
+Cara ganti password,Mau tanya cara setting,Gangguan Bandwidth,UMKM,2025-11-01 20:15:30,Rendah
+Internet lambat,Internet agak lambat,Gangguan Sistem,Perusahaan,2025-10-08 20:15:30,Sedang
+Internet mati total,Sudah 2 jam tidak bisa akses,Gangguan Jaringan,UMKM,2025-10-11 20:15:30,Tinggi
+Request akses,Mau konsultasi fitur,Request Layanan,Rumah,2025-11-23 20:15:30,Rendah
+Koneksi terputus,Server down semua user tidak bisa akses,Gangguan Jaringan,Rumah,2025-10-15 20:15:30,Tinggi
+Internet mati total,Sistem error sejak pagi,Gangguan Sistem,Perusahaan,2025-10-27 20:15:30,Tinggi
+Internet lambat,Upload file gagal,Request Layanan,UMKM,2025-11-13 20:15:30,Sedang
+Koneksi terputus,Error terus muncul,Gangguan Jaringan,Perusahaan,2025-10-10 20:15:30,Tinggi
+Konsultasi,Mau tanya cara setting,Gangguan Bandwidth,Rumah,2025-10-27 20:15:30,Rendah
+Konsultasi,Request akses user baru,Gangguan Sistem,UMKM,2025-10-18 20:15:30,Rendah
+Koneksi terputus,Server down semua user tidak bisa akses,Gangguan Sistem,UMKM,2025-10-03 20:15:30,Tinggi
+Upload gagal,Loading aplikasi lama,Pertanyaan Teknis,UMKM,2025-11-03 20:15:30,Sedang
+Server down urgent,Server down semua user tidak bisa akses,Gangguan Jaringan,Rumah,2025-10-21 20:15:30,Tinggi
+Loading lama,Upload file gagal,Gangguan Sistem,Perusahaan,2025-10-28 20:15:30,Sedang
+Koneksi tidak stabil,Loading aplikasi lama,Gangguan Bandwidth,Perusahaan,2025-11-15 20:15:30,Sedang
+Koneksi tidak stabil,Koneksi sering terputus,Pertanyaan Teknis,Perusahaan,2025-11-18 20:15:30,Sedang
+Sistem error darurat,Error terus muncul,Gangguan Sistem,Perusahaan,2025-10-30 20:15:30,Tinggi
+Server down urgent,Error terus muncul,Gangguan Sistem,UMKM,2025-10-07 20:15:30,Tinggi
+Info layanan,Mohon info upgrade paket,Request Layanan,Rumah,2025-10-25 20:15:30,Rendah
+Server down urgent,Server down semua user tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-10-09 20:15:30,Tinggi
+Upload gagal,Internet agak lambat,Pertanyaan Teknis,UMKM,2025-10-20 20:15:30,Sedang
+Internet mati total,Server down semua user tidak bisa akses,Gangguan Sistem,UMKM,2025-10-22 20:15:30,Tinggi
+Koneksi tidak stabil,Upload file gagal,Request Layanan,UMKM,2025-11-05 20:15:30,Sedang
+Request akses,Mohon info upgrade paket,Gangguan Sistem,Perusahaan,2025-10-04 20:15:30,Rendah
+Konsultasi,Mohon info upgrade paket,Pertanyaan Teknis,Rumah,2025-11-15 20:15:30,Rendah
+Info layanan,Mau konsultasi fitur,Gangguan Sistem,Rumah,2025-10-01 20:15:30,Rendah
+Sering terputus,Upload file gagal,Gangguan Sistem,UMKM,2025-10-19 20:15:30,Sedang
+Database tidak bisa diakses,Sudah 5 jam tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-10-05 20:15:30,Tinggi
+Konsultasi,Mau konsultasi fitur,Gangguan Jaringan,Rumah,2025-10-12 20:15:30,Rendah
+Request akses,Bisa bantu ganti password?,Gangguan Bandwidth,Rumah,2025-11-12 20:15:30,Rendah
+Pertanyaan setting,Mohon info upgrade paket,Gangguan Bandwidth,Perusahaan,2025-10-01 20:15:30,Rendah
+Server down urgent,Server down semua user tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-11-03 20:15:30,Tinggi
+Konsultasi,Bisa bantu ganti password?,Gangguan Sistem,Perusahaan,2025-11-02 20:15:30,Rendah
+Upload gagal,Koneksi tidak stabil,Request Layanan,Perusahaan,2025-11-06 20:15:30,Sedang
+Info layanan,Mau tanya cara setting,Gangguan Jaringan,Perusahaan,2025-10-13 20:15:30,Rendah
+Server down urgent,Server down semua user tidak bisa akses,Gangguan Sistem,Rumah,2025-11-08 20:15:30,Tinggi
+Pertanyaan setting,Request akses user baru,Gangguan Sistem,Rumah,2025-10-15 20:15:30,Rendah
+Sistem error darurat,Sistem error sejak pagi,Gangguan Sistem,UMKM,2025-10-28 20:15:30,Tinggi
+Internet lambat,Koneksi sering terputus,Request Layanan,UMKM,2025-10-30 20:15:30,Sedang
+Upload gagal,Internet agak lambat,Gangguan Sistem,Perusahaan,2025-11-15 20:15:30,Sedang
+Konsultasi,Mau tanya cara setting,Gangguan Sistem,Perusahaan,2025-11-02 20:15:30,Rendah
+Sistem error darurat,Error terus muncul,Gangguan Jaringan,Perusahaan,2025-09-29 20:15:30,Tinggi
+Konsultasi,Mau tanya cara setting,Gangguan Bandwidth,Perusahaan,2025-11-16 20:15:30,Rendah
+Cara ganti password,Request akses user baru,Gangguan Sistem,Perusahaan,2025-10-24 20:15:30,Rendah
+Koneksi tidak stabil,Upload file gagal,Gangguan Jaringan,Perusahaan,2025-09-27 20:15:30,Sedang
+Database tidak bisa diakses,Server down semua user tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-10-12 20:15:30,Tinggi
+Koneksi terputus,Sistem error sejak pagi,Gangguan Jaringan,Perusahaan,2025-10-05 20:15:30,Tinggi
+Sistem error darurat,Server down semua user tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-11-17 20:15:30,Tinggi
+Request akses,Mau tanya cara setting,Pertanyaan Teknis,Perusahaan,2025-10-14 20:15:30,Rendah
+Loading lama,Upload file gagal,Pertanyaan Teknis,Perusahaan,2025-11-09 20:15:30,Sedang
+Loading lama,Koneksi tidak stabil,Gangguan Jaringan,Perusahaan,2025-11-08 20:15:30,Sedang
+Koneksi tidak stabil,Upload file gagal,Pertanyaan Teknis,UMKM,2025-11-01 20:15:30,Sedang
+Sering terputus,Loading aplikasi lama,Gangguan Sistem,Rumah,2025-11-07 20:15:30,Sedang
+Sering terputus,Koneksi tidak stabil,Pertanyaan Teknis,Rumah,2025-10-29 20:15:30,Sedang
+Konsultasi,Request akses user baru,Gangguan Jaringan,Perusahaan,2025-11-20 20:15:30,Rendah
+Sistem error darurat,Koneksi putus terus,Gangguan Jaringan,UMKM,2025-11-19 20:15:30,Tinggi
+Pertanyaan setting,Mohon info upgrade paket,Gangguan Sistem,Rumah,2025-10-15 20:15:30,Rendah
+Info layanan,Mau tanya cara setting,Pertanyaan Teknis,Perusahaan,2025-10-18 20:15:30,Rendah
+Cara ganti password,Mohon info upgrade paket,Gangguan Sistem,Perusahaan,2025-10-19 20:15:30,Rendah
+Cara ganti password,Request akses user baru,Gangguan Bandwidth,Rumah,2025-11-06 20:15:30,Rendah
+Server down urgent,Server down semua user tidak bisa akses,Gangguan Jaringan,UMKM,2025-11-22 20:15:30,Tinggi
+Koneksi tidak stabil,Internet agak lambat,Gangguan Jaringan,Perusahaan,2025-09-26 20:15:30,Sedang
+Internet lambat,Koneksi tidak stabil,Gangguan Sistem,Perusahaan,2025-11-02 20:15:30,Sedang
+Internet mati total,Server down semua user tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-02 20:15:30,Tinggi
+Sering terputus,Koneksi tidak stabil,Gangguan Jaringan,Perusahaan,2025-10-13 20:15:30,Sedang
+Internet mati total,Error terus muncul,Gangguan Jaringan,Perusahaan,2025-11-08 20:15:30,Tinggi
+Loading lama,Koneksi sering terputus,Gangguan Sistem,Rumah,2025-10-05 20:15:30,Sedang
+Server down urgent,Koneksi putus terus,Gangguan Sistem,Rumah,2025-10-18 20:15:30,Tinggi
+Internet lambat,Upload file gagal,Gangguan Sistem,Perusahaan,2025-10-01 20:15:30,Sedang
+Info layanan,Request akses user baru,Gangguan Sistem,Perusahaan,2025-11-02 20:15:30,Rendah
+Internet mati total,Server down semua user tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-10-08 20:15:30,Tinggi
+Upload gagal,Loading aplikasi lama,Gangguan Jaringan,Rumah,2025-10-21 20:15:30,Sedang
+Sistem error darurat,Error terus muncul,Gangguan Sistem,UMKM,2025-10-23 20:15:30,Tinggi
+Koneksi tidak stabil,Upload file gagal,Gangguan Sistem,Rumah,2025-09-26 20:15:30,Sedang
+Pertanyaan setting,Request akses user baru,Pertanyaan Teknis,Rumah,2025-10-18 20:15:30,Rendah
+Internet lambat,Loading aplikasi lama,Pertanyaan Teknis,Rumah,2025-09-26 20:15:30,Sedang
+Upload gagal,Koneksi tidak stabil,Pertanyaan Teknis,Perusahaan,2025-11-01 20:15:30,Sedang
+Koneksi terputus,Sudah 8 jam tidak bisa akses,Gangguan Sistem,Perusahaan,2025-10-10 20:15:30,Tinggi
+Upload gagal,Upload file gagal,Request Layanan,Perusahaan,2025-11-16 20:15:30,Sedang
+Koneksi tidak stabil,Loading aplikasi lama,Pertanyaan Teknis,Perusahaan,2025-11-20 20:15:30,Sedang
+Koneksi tidak stabil,Loading aplikasi lama,Gangguan Bandwidth,UMKM,2025-11-20 20:15:30,Sedang
+Cara ganti password,Mohon info upgrade paket,Gangguan Jaringan,Rumah,2025-10-14 20:15:30,Rendah
+Cara ganti password,Mau konsultasi fitur,Pertanyaan Teknis,UMKM,2025-10-30 20:15:30,Rendah
+Koneksi tidak stabil,Loading aplikasi lama,Gangguan Sistem,UMKM,2025-11-04 20:15:30,Sedang
+Sering terputus,Koneksi sering terputus,Gangguan Jaringan,Perusahaan,2025-09-30 20:15:30,Sedang
+Konsultasi,Bisa bantu ganti password?,Gangguan Bandwidth,Perusahaan,2025-10-20 20:15:30,Rendah
+Koneksi tidak stabil,Loading aplikasi lama,Gangguan Jaringan,Perusahaan,2025-10-16 20:15:30,Sedang
+Internet lambat,Internet agak lambat,Gangguan Sistem,UMKM,2025-11-22 20:15:30,Sedang
+Database tidak bisa diakses,Sudah 9 jam tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-04 20:15:30,Tinggi
+Sering terputus,Internet agak lambat,Gangguan Sistem,UMKM,2025-11-21 20:15:30,Sedang
+Sering terputus,Upload file gagal,Request Layanan,Perusahaan,2025-11-10 20:15:30,Sedang
+Request akses,Mohon info upgrade paket,Gangguan Sistem,UMKM,2025-10-07 20:15:30,Rendah
+Cara ganti password,Mau konsultasi fitur,Request Layanan,UMKM,2025-11-09 20:15:30,Rendah
+Koneksi terputus,Error terus muncul,Gangguan Sistem,Perusahaan,2025-11-02 20:15:30,Tinggi
+Konsultasi,Request akses user baru,Request Layanan,UMKM,2025-10-05 20:15:30,Rendah
+Internet mati total,Sistem error sejak pagi,Gangguan Sistem,Rumah,2025-11-25 20:15:30,Tinggi
+Internet mati total,Server down semua user tidak bisa akses,Gangguan Sistem,Perusahaan,2025-10-31 20:15:30,Tinggi
+Info layanan,Mau konsultasi fitur,Pertanyaan Teknis,Perusahaan,2025-09-29 20:15:30,Rendah
+Sering terputus,Internet agak lambat,Gangguan Sistem,Perusahaan,2025-10-27 20:15:30,Sedang
+Koneksi tidak stabil,Loading aplikasi lama,Gangguan Jaringan,Perusahaan,2025-11-18 20:15:30,Sedang
+Info layanan,Mau tanya cara setting,Pertanyaan Teknis,UMKM,2025-10-06 20:15:30,Rendah
+Pertanyaan setting,Bisa bantu ganti password?,Request Layanan,Perusahaan,2025-10-29 20:15:30,Rendah
+Sering terputus,Koneksi tidak stabil,Gangguan Bandwidth,Perusahaan,2025-10-19 20:15:30,Sedang
+Info layanan,Bisa bantu ganti password?,Pertanyaan Teknis,UMKM,2025-10-01 20:15:30,Rendah
+Internet mati total,Error terus muncul,Gangguan Jaringan,Perusahaan,2025-10-11 20:15:30,Tinggi
+Info layanan,Mau konsultasi fitur,Gangguan Bandwidth,Rumah,2025-11-13 20:15:30,Rendah
+Server down urgent,Server down semua user tidak bisa akses,Gangguan Sistem,Rumah,2025-10-08 20:15:30,Tinggi
+Sering terputus,Koneksi sering terputus,Gangguan Bandwidth,Rumah,2025-10-23 20:15:30,Sedang
+Cara ganti password,Bisa bantu ganti password?,Request Layanan,Rumah,2025-10-26 20:15:30,Rendah
+Info layanan,Request akses user baru,Gangguan Bandwidth,Rumah,2025-11-09 20:15:30,Rendah
+Internet mati total,Sistem error sejak pagi,Gangguan Sistem,Rumah,2025-11-03 20:15:30,Tinggi
+Koneksi terputus,Error terus muncul,Gangguan Sistem,Perusahaan,2025-10-03 20:15:30,Tinggi
+Pertanyaan setting,Request akses user baru,Pertanyaan Teknis,Perusahaan,2025-11-10 20:15:30,Rendah
+Info layanan,Mau tanya cara setting,Gangguan Sistem,Perusahaan,2025-11-23 20:15:30,Rendah
+Sistem error darurat,Sudah 11 jam tidak bisa akses,Gangguan Jaringan,UMKM,2025-10-22 20:15:30,Tinggi
+Database tidak bisa diakses,Server down semua user tidak bisa akses,Gangguan Jaringan,Rumah,2025-10-20 20:15:30,Tinggi
+Request akses,Bisa bantu ganti password?,Pertanyaan Teknis,Rumah,2025-11-04 20:15:30,Rendah
+Loading lama,Upload file gagal,Gangguan Sistem,UMKM,2025-11-12 20:15:30,Sedang
+Koneksi tidak stabil,Koneksi tidak stabil,Gangguan Jaringan,Rumah,2025-11-09 20:15:30,Sedang
+Info layanan,Request akses user baru,Pertanyaan Teknis,Rumah,2025-11-21 20:15:30,Rendah
+Loading lama,Koneksi tidak stabil,Gangguan Jaringan,Rumah,2025-10-05 20:15:30,Sedang
+Loading lama,Internet agak lambat,Gangguan Jaringan,UMKM,2025-10-06 20:15:30,Sedang
+Info layanan,Bisa bantu ganti password?,Gangguan Sistem,Perusahaan,2025-10-14 20:15:30,Rendah
+Sering terputus,Koneksi tidak stabil,Gangguan Sistem,Perusahaan,2025-10-30 20:15:30,Sedang
+Info layanan,Bisa bantu ganti password?,Gangguan Jaringan,UMKM,2025-10-05 20:15:30,Rendah
+Pertanyaan setting,Bisa bantu ganti password?,Request Layanan,UMKM,2025-11-19 20:15:30,Rendah
+Internet lambat,Upload file gagal,Request Layanan,Perusahaan,2025-09-27 20:15:30,Sedang
+Server down urgent,Koneksi putus terus,Gangguan Jaringan,UMKM,2025-10-05 20:15:30,Tinggi
+Database tidak bisa diakses,Error terus muncul,Gangguan Jaringan,Perusahaan,2025-11-01 20:15:30,Tinggi
+Loading lama,Internet agak lambat,Request Layanan,Perusahaan,2025-10-09 20:15:30,Sedang
+Database tidak bisa diakses,Sudah 4 jam tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-11-15 20:15:30,Tinggi
+Database tidak bisa diakses,Sudah 3 jam tidak bisa akses,Gangguan Jaringan,Rumah,2025-10-23 20:15:30,Tinggi
+Loading lama,Koneksi sering terputus,Request Layanan,Rumah,2025-11-19 20:15:30,Sedang
+Info layanan,Mohon info upgrade paket,Gangguan Jaringan,UMKM,2025-09-30 20:15:30,Rendah
+Internet mati total,Sudah 4 jam tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-10-21 20:15:30,Tinggi
+Internet mati total,Koneksi putus terus,Gangguan Jaringan,Perusahaan,2025-10-10 20:15:30,Tinggi
+Sering terputus,Upload file gagal,Gangguan Bandwidth,Perusahaan,2025-10-14 20:15:30,Sedang
+Koneksi tidak stabil,Loading aplikasi lama,Gangguan Jaringan,UMKM,2025-11-22 20:15:30,Sedang
+Internet lambat,Koneksi tidak stabil,Pertanyaan Teknis,UMKM,2025-11-07 20:15:30,Sedang
+Sering terputus,Upload file gagal,Pertanyaan Teknis,UMKM,2025-09-30 20:15:30,Sedang
+Info layanan,Mohon info upgrade paket,Pertanyaan Teknis,Perusahaan,2025-10-28 20:15:30,Rendah
+Koneksi terputus,Error terus muncul,Gangguan Jaringan,UMKM,2025-10-30 20:15:30,Tinggi
+Pertanyaan setting,Mau konsultasi fitur,Gangguan Bandwidth,Rumah,2025-10-03 20:15:30,Rendah
+Koneksi tidak stabil,Upload file gagal,Gangguan Sistem,Perusahaan,2025-11-18 20:15:30,Sedang
+Koneksi terputus,Koneksi putus terus,Gangguan Sistem,UMKM,2025-10-01 20:15:30,Tinggi
+Database tidak bisa diakses,Koneksi putus terus,Gangguan Jaringan,Perusahaan,2025-10-17 20:15:30,Tinggi
+Koneksi tidak stabil,Koneksi tidak stabil,Gangguan Bandwidth,UMKM,2025-10-26 20:15:30,Sedang
+Request akses,Bisa bantu ganti password?,Gangguan Jaringan,UMKM,2025-09-30 20:15:30,Rendah
+Koneksi tidak stabil,Internet agak lambat,Pertanyaan Teknis,UMKM,2025-11-08 20:15:30,Sedang
+Internet mati total,Server down semua user tidak bisa akses,Gangguan Jaringan,Rumah,2025-10-05 20:15:30,Tinggi
+Koneksi terputus,Koneksi putus terus,Gangguan Jaringan,Perusahaan,2025-11-20 20:15:30,Tinggi
+Pertanyaan setting,Mohon info upgrade paket,Request Layanan,UMKM,2025-10-16 20:15:30,Rendah
+Info layanan,Mau konsultasi fitur,Gangguan Sistem,UMKM,2025-09-26 20:15:30,Rendah
+Database tidak bisa diakses,Error terus muncul,Gangguan Sistem,UMKM,2025-10-02 20:15:30,Tinggi
+Koneksi tidak stabil,Loading aplikasi lama,Gangguan Bandwidth,Rumah,2025-10-26 20:15:30,Sedang
+Request akses,Mau konsultasi fitur,Pertanyaan Teknis,Perusahaan,2025-11-06 20:15:30,Rendah
+Internet mati total,Sistem error sejak pagi,Gangguan Jaringan,Perusahaan,2025-10-26 20:15:30,Tinggi
+Upload gagal,Koneksi sering terputus,Request Layanan,Perusahaan,2025-11-11 20:15:30,Sedang
+Pertanyaan setting,Mau tanya cara setting,Pertanyaan Teknis,Rumah,2025-10-03 20:15:30,Rendah
+Loading lama,Koneksi tidak stabil,Gangguan Bandwidth,Perusahaan,2025-11-24 20:15:30,Sedang
+Cara ganti password,Bisa bantu ganti password?,Gangguan Jaringan,Rumah,2025-11-15 20:15:30,Rendah
+Konsultasi,Mau konsultasi fitur,Pertanyaan Teknis,Perusahaan,2025-09-27 20:15:30,Rendah
+Internet mati total,Koneksi putus terus,Gangguan Sistem,Rumah,2025-10-03 20:15:30,Tinggi
+Koneksi tidak stabil,Koneksi tidak stabil,Gangguan Bandwidth,Rumah,2025-10-04 20:15:30,Sedang
+Internet mati total,Koneksi putus terus,Gangguan Jaringan,UMKM,2025-10-06 20:15:30,Tinggi
+Koneksi tidak stabil,Upload file gagal,Gangguan Jaringan,UMKM,2025-10-28 20:15:30,Sedang
+Server down urgent,Error terus muncul,Gangguan Sistem,UMKM,2025-10-13 20:15:30,Tinggi
+Koneksi terputus,Sudah 5 jam tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-22 20:15:30,Tinggi
+Loading lama,Koneksi tidak stabil,Gangguan Jaringan,Perusahaan,2025-10-23 20:15:30,Sedang
+Pertanyaan setting,Mohon info upgrade paket,Pertanyaan Teknis,Perusahaan,2025-10-16 20:15:30,Rendah
+Pertanyaan setting,Request akses user baru,Request Layanan,Perusahaan,2025-10-20 20:15:30,Rendah
+Sering terputus,Loading aplikasi lama,Request Layanan,Perusahaan,2025-11-25 20:15:30,Sedang
+Upload gagal,Koneksi sering terputus,Gangguan Bandwidth,Perusahaan,2025-10-05 20:15:30,Sedang
+Loading lama,Loading aplikasi lama,Gangguan Jaringan,Rumah,2025-11-20 20:15:30,Sedang
+Request akses,Mau konsultasi fitur,Gangguan Bandwidth,UMKM,2025-10-18 20:15:30,Rendah
+Server down urgent,Sistem error sejak pagi,Gangguan Jaringan,Perusahaan,2025-11-07 20:15:30,Tinggi
+Internet mati total,Sudah 7 jam tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-11-04 20:15:30,Tinggi
+Sistem error darurat,Koneksi putus terus,Gangguan Sistem,Perusahaan,2025-10-25 20:15:30,Tinggi
+Internet mati total,Koneksi putus terus,Gangguan Jaringan,UMKM,2025-10-22 20:15:30,Tinggi
+Sistem error darurat,Koneksi putus terus,Gangguan Sistem,UMKM,2025-11-03 20:15:30,Tinggi
+Database tidak bisa diakses,Sistem error sejak pagi,Gangguan Jaringan,Perusahaan,2025-11-02 20:15:30,Tinggi
+Internet lambat,Upload file gagal,Gangguan Bandwidth,Rumah,2025-10-03 20:15:30,Sedang
+Server down urgent,Server down semua user tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-10-16 20:15:30,Tinggi
+Sering terputus,Internet agak lambat,Gangguan Jaringan,UMKM,2025-10-23 20:15:30,Sedang
+Upload gagal,Koneksi sering terputus,Gangguan Bandwidth,UMKM,2025-10-01 20:15:30,Sedang
+Internet mati total,Error terus muncul,Gangguan Sistem,Rumah,2025-10-10 20:15:30,Tinggi
+Loading lama,Koneksi tidak stabil,Gangguan Sistem,Rumah,2025-11-16 20:15:30,Sedang
+Loading lama,Koneksi sering terputus,Pertanyaan Teknis,Rumah,2025-10-27 20:15:30,Sedang
+Loading lama,Internet agak lambat,Gangguan Sistem,UMKM,2025-11-11 20:15:30,Sedang
+Koneksi tidak stabil,Koneksi tidak stabil,Gangguan Jaringan,Perusahaan,2025-11-23 20:15:30,Sedang
+Server down urgent,Sudah 11 jam tidak bisa akses,Gangguan Sistem,UMKM,2025-10-08 20:15:30,Tinggi
+Server down urgent,Sudah 9 jam tidak bisa akses,Gangguan Sistem,UMKM,2025-11-07 20:15:30,Tinggi
+Internet lambat,Loading aplikasi lama,Request Layanan,Perusahaan,2025-10-17 20:15:30,Sedang
+Info layanan,Mau tanya cara setting,Gangguan Bandwidth,UMKM,2025-10-09 20:15:30,Rendah
+Sering terputus,Internet agak lambat,Gangguan Jaringan,Perusahaan,2025-11-04 20:15:30,Sedang
+Upload gagal,Koneksi sering terputus,Gangguan Jaringan,Perusahaan,2025-11-20 20:15:30,Sedang
+Upload gagal,Internet agak lambat,Gangguan Sistem,Rumah,2025-10-05 20:15:30,Sedang
+Server down urgent,Sistem error sejak pagi,Gangguan Sistem,Perusahaan,2025-10-17 20:15:30,Tinggi
+Loading lama,Upload file gagal,Gangguan Sistem,Perusahaan,2025-10-13 20:15:30,Sedang
+Cara ganti password,Request akses user baru,Pertanyaan Teknis,UMKM,2025-10-21 20:15:30,Rendah
+Koneksi tidak stabil,Koneksi tidak stabil,Pertanyaan Teknis,UMKM,2025-10-18 20:15:30,Sedang
+Sering terputus,Loading aplikasi lama,Gangguan Jaringan,Rumah,2025-10-30 20:15:30,Sedang
+Pertanyaan setting,Request akses user baru,Gangguan Bandwidth,Perusahaan,2025-10-04 20:15:30,Rendah
+Koneksi terputus,Server down semua user tidak bisa akses,Gangguan Jaringan,UMKM,2025-10-03 20:15:30,Tinggi
+Konsultasi,Bisa bantu ganti password?,Gangguan Jaringan,Perusahaan,2025-11-22 20:15:30,Rendah
+Pertanyaan setting,Mau konsultasi fitur,Gangguan Jaringan,Rumah,2025-11-10 20:15:30,Rendah
+Pertanyaan setting,Mau konsultasi fitur,Pertanyaan Teknis,UMKM,2025-10-13 20:15:30,Rendah
+Loading lama,Internet agak lambat,Pertanyaan Teknis,Perusahaan,2025-10-07 20:15:30,Sedang
+Sering terputus,Upload file gagal,Request Layanan,UMKM,2025-10-28 20:15:30,Sedang
+Internet mati total,Server down semua user tidak bisa akses,Gangguan Sistem,Perusahaan,2025-10-14 20:15:30,Tinggi
+Cara ganti password,Request akses user baru,Request Layanan,UMKM,2025-09-28 20:15:30,Rendah
+Server down urgent,Error terus muncul,Gangguan Sistem,Perusahaan,2025-11-22 20:15:30,Tinggi
+Request akses,Bisa bantu ganti password?,Gangguan Sistem,UMKM,2025-10-31 20:15:30,Rendah
+Info layanan,Bisa bantu ganti password?,Pertanyaan Teknis,UMKM,2025-11-05 20:15:30,Rendah
+Upload gagal,Upload file gagal,Gangguan Sistem,Rumah,2025-11-12 20:15:30,Sedang
+Konsultasi,Request akses user baru,Gangguan Bandwidth,UMKM,2025-10-13 20:15:30,Rendah
+Sistem error darurat,Server down semua user tidak bisa akses,Gangguan Jaringan,UMKM,2025-10-03 20:15:30,Tinggi
+Loading lama,Koneksi sering terputus,Gangguan Sistem,Perusahaan,2025-11-17 20:15:30,Sedang
+Koneksi tidak stabil,Koneksi tidak stabil,Gangguan Sistem,Perusahaan,2025-11-04 20:15:30,Sedang
+Upload gagal,Koneksi sering terputus,Gangguan Sistem,UMKM,2025-11-20 20:15:30,Sedang
+Request akses,Bisa bantu ganti password?,Gangguan Bandwidth,Perusahaan,2025-10-28 20:15:30,Rendah
+Sering terputus,Koneksi sering terputus,Request Layanan,Rumah,2025-10-20 20:15:30,Sedang
+Database tidak bisa diakses,Server down semua user tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-25 20:15:30,Tinggi
+Server down urgent,Sudah 4 jam tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-11-22 20:15:30,Tinggi
+Pertanyaan setting,Request akses user baru,Gangguan Sistem,Perusahaan,2025-10-23 20:15:30,Rendah
+Request akses,Bisa bantu ganti password?,Gangguan Jaringan,Perusahaan,2025-09-27 20:15:30,Rendah
+Info layanan,Request akses user baru,Pertanyaan Teknis,Rumah,2025-11-11 20:15:30,Rendah
+Database tidak bisa diakses,Server down semua user tidak bisa akses,Gangguan Jaringan,Rumah,2025-10-19 20:15:30,Tinggi
+Konsultasi,Mau tanya cara setting,Pertanyaan Teknis,Rumah,2025-10-06 20:15:30,Rendah
+Upload gagal,Koneksi tidak stabil,Pertanyaan Teknis,Perusahaan,2025-10-31 20:15:30,Sedang
+Request akses,Request akses user baru,Pertanyaan Teknis,Rumah,2025-11-02 20:15:30,Rendah
+Database tidak bisa diakses,Koneksi putus terus,Gangguan Jaringan,Perusahaan,2025-10-24 20:15:30,Tinggi
+Internet mati total,Error terus muncul,Gangguan Sistem,Perusahaan,2025-10-29 20:15:30,Tinggi
+Pertanyaan setting,Request akses user baru,Gangguan Sistem,UMKM,2025-10-13 20:15:30,Rendah
+Koneksi terputus,Sistem error sejak pagi,Gangguan Jaringan,Rumah,2025-11-12 20:15:30,Tinggi
+Info layanan,Mohon info upgrade paket,Gangguan Bandwidth,UMKM,2025-10-29 20:15:30,Rendah
+Info layanan,Bisa bantu ganti password?,Gangguan Sistem,UMKM,2025-11-14 20:15:30,Rendah
+Loading lama,Loading aplikasi lama,Request Layanan,Perusahaan,2025-10-05 20:15:30,Sedang
+Sistem error darurat,Sudah 10 jam tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-01 20:15:30,Tinggi
+Internet lambat,Internet agak lambat,Request Layanan,UMKM,2025-10-05 20:15:30,Sedang
+Sering terputus,Loading aplikasi lama,Pertanyaan Teknis,UMKM,2025-09-26 20:15:30,Sedang
+Pertanyaan setting,Mau tanya cara setting,Request Layanan,Rumah,2025-11-07 20:15:30,Rendah
+Cara ganti password,Request akses user baru,Gangguan Bandwidth,UMKM,2025-09-28 20:15:30,Rendah
+Pertanyaan setting,Mau konsultasi fitur,Pertanyaan Teknis,UMKM,2025-10-25 20:15:30,Rendah
+Cara ganti password,Request akses user baru,Request Layanan,Rumah,2025-10-22 20:15:30,Rendah
+Info layanan,Request akses user baru,Gangguan Sistem,Rumah,2025-10-29 20:15:30,Rendah
+Cara ganti password,Bisa bantu ganti password?,Gangguan Sistem,Rumah,2025-10-22 20:15:30,Rendah
+Internet mati total,Koneksi putus terus,Gangguan Sistem,Perusahaan,2025-11-13 20:15:30,Tinggi
+Pertanyaan setting,Mau konsultasi fitur,Gangguan Sistem,Rumah,2025-09-27 20:15:30,Rendah
+Info layanan,Bisa bantu ganti password?,Gangguan Bandwidth,Rumah,2025-10-23 20:15:30,Rendah
+Internet mati total,Koneksi putus terus,Gangguan Sistem,Rumah,2025-10-10 20:15:30,Tinggi
+Koneksi tidak stabil,Koneksi sering terputus,Pertanyaan Teknis,Rumah,2025-10-28 20:15:30,Sedang
+Loading lama,Internet agak lambat,Gangguan Jaringan,Rumah,2025-10-21 20:15:30,Sedang
+Cara ganti password,Request akses user baru,Gangguan Bandwidth,Perusahaan,2025-11-03 20:15:30,Rendah
+Database tidak bisa diakses,Server down semua user tidak bisa akses,Gangguan Jaringan,UMKM,2025-10-28 20:15:30,Tinggi
+Koneksi terputus,Server down semua user tidak bisa akses,Gangguan Jaringan,Rumah,2025-09-26 20:15:30,Tinggi
+Upload gagal,Upload file gagal,Gangguan Sistem,UMKM,2025-11-11 20:15:30,Sedang
+Koneksi terputus,Koneksi putus terus,Gangguan Sistem,Perusahaan,2025-10-08 20:15:30,Tinggi
+Request akses,Request akses user baru,Gangguan Sistem,UMKM,2025-11-09 20:15:30,Rendah
+Request akses,Request akses user baru,Pertanyaan Teknis,Perusahaan,2025-10-27 20:15:30,Rendah
+Server down urgent,Koneksi putus terus,Gangguan Jaringan,Perusahaan,2025-10-16 20:15:30,Tinggi
+Loading lama,Upload file gagal,Pertanyaan Teknis,UMKM,2025-11-10 20:15:30,Sedang
+Request akses,Bisa bantu ganti password?,Gangguan Bandwidth,UMKM,2025-11-14 20:15:30,Rendah
+Pertanyaan setting,Bisa bantu ganti password?,Gangguan Sistem,Perusahaan,2025-11-07 20:15:30,Rendah
+Sering terputus,Upload file gagal,Pertanyaan Teknis,Perusahaan,2025-11-21 20:15:30,Sedang
+Pertanyaan setting,Request akses user baru,Gangguan Jaringan,UMKM,2025-11-04 20:15:30,Rendah
+Request akses,Mau konsultasi fitur,Gangguan Sistem,Perusahaan,2025-10-15 20:15:30,Rendah
+Konsultasi,Request akses user baru,Gangguan Sistem,Perusahaan,2025-11-06 20:15:30,Rendah
+Koneksi terputus,Server down semua user tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-09-26 20:15:30,Tinggi
+Koneksi tidak stabil,Internet agak lambat,Gangguan Jaringan,Perusahaan,2025-09-30 20:15:30,Sedang
+Internet lambat,Loading aplikasi lama,Gangguan Bandwidth,Rumah,2025-10-11 20:15:30,Sedang
+Cara ganti password,Mau konsultasi fitur,Pertanyaan Teknis,UMKM,2025-09-28 20:15:30,Rendah
+Request akses,Mau tanya cara setting,Request Layanan,UMKM,2025-10-22 20:15:30,Rendah
+Loading lama,Koneksi tidak stabil,Gangguan Bandwidth,Perusahaan,2025-11-15 20:15:30,Sedang
+Internet lambat,Koneksi sering terputus,Request Layanan,UMKM,2025-11-13 20:15:30,Sedang
+Database tidak bisa diakses,Error terus muncul,Gangguan Jaringan,UMKM,2025-10-08 20:15:30,Tinggi
+Upload gagal,Koneksi tidak stabil,Request Layanan,Rumah,2025-11-13 20:15:30,Sedang
+Info layanan,Request akses user baru,Gangguan Bandwidth,UMKM,2025-09-27 20:15:30,Rendah
+Upload gagal,Internet agak lambat,Request Layanan,Rumah,2025-10-13 20:15:30,Sedang
+Koneksi terputus,Server down semua user tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-12 20:15:30,Tinggi
+Pertanyaan setting,Bisa bantu ganti password?,Pertanyaan Teknis,UMKM,2025-10-12 20:15:30,Rendah
+Koneksi tidak stabil,Koneksi tidak stabil,Gangguan Jaringan,Perusahaan,2025-10-21 20:15:30,Sedang
+Loading lama,Internet agak lambat,Gangguan Jaringan,UMKM,2025-09-29 20:15:30,Sedang
+Upload gagal,Koneksi tidak stabil,Request Layanan,UMKM,2025-11-02 20:15:30,Sedang
+Sering terputus,Loading aplikasi lama,Gangguan Jaringan,UMKM,2025-10-13 20:15:30,Sedang
+Sistem error darurat,Sudah 12 jam tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-08 20:15:30,Tinggi
+Cara ganti password,Mohon info upgrade paket,Gangguan Jaringan,Rumah,2025-11-23 20:15:30,Rendah
+Konsultasi,Request akses user baru,Gangguan Sistem,Rumah,2025-11-04 20:15:30,Rendah
+Internet lambat,Upload file gagal,Gangguan Bandwidth,Perusahaan,2025-11-19 20:15:30,Sedang
+Upload gagal,Koneksi sering terputus,Gangguan Sistem,Perusahaan,2025-11-17 20:15:30,Sedang
+Loading lama,Koneksi tidak stabil,Pertanyaan Teknis,Rumah,2025-11-19 20:15:30,Sedang
+Pertanyaan setting,Request akses user baru,Pertanyaan Teknis,Rumah,2025-10-19 20:15:30,Rendah
+Koneksi terputus,Error terus muncul,Gangguan Sistem,Perusahaan,2025-11-23 20:15:30,Tinggi
+Internet mati total,Koneksi putus terus,Gangguan Jaringan,Rumah,2025-10-24 20:15:30,Tinggi
+Koneksi tidak stabil,Internet agak lambat,Request Layanan,Rumah,2025-10-26 20:15:30,Sedang
+Sistem error darurat,Sistem error sejak pagi,Gangguan Jaringan,UMKM,2025-10-27 20:15:30,Tinggi
+Koneksi terputus,Sistem error sejak pagi,Gangguan Sistem,Rumah,2025-11-20 20:15:30,Tinggi
+Database tidak bisa diakses,Sistem error sejak pagi,Gangguan Jaringan,UMKM,2025-11-15 20:15:30,Tinggi
+Sistem error darurat,Sudah 6 jam tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-11 20:15:30,Tinggi
+Upload gagal,Koneksi sering terputus,Request Layanan,Perusahaan,2025-10-17 20:15:30,Sedang
+Upload gagal,Internet agak lambat,Gangguan Jaringan,Rumah,2025-11-03 20:15:30,Sedang
+Cara ganti password,Bisa bantu ganti password?,Request Layanan,UMKM,2025-09-28 20:15:30,Rendah
+Loading lama,Koneksi sering terputus,Request Layanan,Perusahaan,2025-11-23 20:15:30,Sedang
+Loading lama,Koneksi tidak stabil,Gangguan Jaringan,Rumah,2025-10-16 20:15:30,Sedang
+Loading lama,Koneksi tidak stabil,Gangguan Jaringan,Perusahaan,2025-10-27 20:15:30,Sedang
+Request akses,Mohon info upgrade paket,Gangguan Bandwidth,Perusahaan,2025-10-21 20:15:30,Rendah
+Info layanan,Mau tanya cara setting,Request Layanan,Rumah,2025-11-22 20:15:30,Rendah
+Server down urgent,Sudah 8 jam tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-25 20:15:30,Tinggi
+Request akses,Bisa bantu ganti password?,Gangguan Sistem,Perusahaan,2025-09-27 20:15:30,Rendah
+Koneksi terputus,Error terus muncul,Gangguan Sistem,UMKM,2025-09-29 20:15:30,Tinggi
+Server down urgent,Sudah 12 jam tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-19 20:15:30,Tinggi
+Database tidak bisa diakses,Server down semua user tidak bisa akses,Gangguan Sistem,Rumah,2025-11-05 20:15:30,Tinggi
+Loading lama,Koneksi tidak stabil,Gangguan Bandwidth,Perusahaan,2025-11-19 20:15:30,Sedang
+Cara ganti password,Bisa bantu ganti password?,Request Layanan,UMKM,2025-11-11 20:15:30,Rendah
+Sering terputus,Loading aplikasi lama,Gangguan Jaringan,Perusahaan,2025-10-09 20:15:30,Sedang
+Request akses,Mau tanya cara setting,Gangguan Sistem,Perusahaan,2025-10-16 20:15:30,Rendah
+Request akses,Bisa bantu ganti password?,Pertanyaan Teknis,Perusahaan,2025-10-27 20:15:30,Rendah
+Server down urgent,Error terus muncul,Gangguan Jaringan,Perusahaan,2025-09-27 20:15:30,Tinggi
+Upload gagal,Koneksi tidak stabil,Gangguan Jaringan,UMKM,2025-11-22 20:15:30,Sedang
+Sering terputus,Internet agak lambat,Gangguan Bandwidth,Rumah,2025-09-28 20:15:30,Sedang
+Koneksi terputus,Error terus muncul,Gangguan Jaringan,UMKM,2025-09-29 20:15:30,Tinggi
+Request akses,Mohon info upgrade paket,Pertanyaan Teknis,Perusahaan,2025-10-26 20:15:30,Rendah
+Internet mati total,Sudah 6 jam tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-10-15 20:15:30,Tinggi
+Konsultasi,Mohon info upgrade paket,Gangguan Sistem,Perusahaan,2025-10-24 20:15:30,Rendah
+Internet lambat,Internet agak lambat,Gangguan Jaringan,UMKM,2025-10-05 20:15:30,Sedang
+Sering terputus,Loading aplikasi lama,Gangguan Bandwidth,UMKM,2025-10-08 20:15:30,Sedang
+Info layanan,Mau konsultasi fitur,Request Layanan,Rumah,2025-11-05 20:15:30,Rendah
+Request akses,Mau konsultasi fitur,Request Layanan,Rumah,2025-10-18 20:15:30,Rendah
+Info layanan,Mau konsultasi fitur,Pertanyaan Teknis,UMKM,2025-09-27 20:15:30,Rendah
+Loading lama,Koneksi sering terputus,Gangguan Sistem,Perusahaan,2025-11-12 20:15:30,Sedang
+Sering terputus,Upload file gagal,Pertanyaan Teknis,Perusahaan,2025-11-03 20:15:30,Sedang
+Sering terputus,Loading aplikasi lama,Pertanyaan Teknis,UMKM,2025-10-01 20:15:30,Sedang
+Cara ganti password,Mau konsultasi fitur,Gangguan Bandwidth,UMKM,2025-10-09 20:15:30,Rendah
+Upload gagal,Koneksi sering terputus,Gangguan Bandwidth,Rumah,2025-10-20 20:15:30,Sedang
+Sistem error darurat,Error terus muncul,Gangguan Sistem,Rumah,2025-11-04 20:15:30,Tinggi
+Cara ganti password,Mau konsultasi fitur,Gangguan Bandwidth,UMKM,2025-11-17 20:15:30,Rendah
+Server down urgent,Sistem error sejak pagi,Gangguan Sistem,UMKM,2025-09-27 20:15:30,Tinggi
+Koneksi terputus,Koneksi putus terus,Gangguan Jaringan,Perusahaan,2025-10-15 20:15:30,Tinggi
+Koneksi terputus,Sistem error sejak pagi,Gangguan Sistem,Perusahaan,2025-11-24 20:15:30,Tinggi
+Internet lambat,Loading aplikasi lama,Gangguan Jaringan,Perusahaan,2025-10-14 20:15:30,Sedang
+Info layanan,Request akses user baru,Gangguan Jaringan,Rumah,2025-11-21 20:15:30,Rendah
+Sering terputus,Koneksi sering terputus,Gangguan Sistem,Rumah,2025-11-18 20:15:30,Sedang
+Upload gagal,Internet agak lambat,Gangguan Jaringan,UMKM,2025-11-24 20:15:30,Sedang
+Database tidak bisa diakses,Koneksi putus terus,Gangguan Jaringan,Perusahaan,2025-09-27 20:15:30,Tinggi
+Koneksi terputus,Sudah 8 jam tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-10-30 20:15:30,Tinggi
+Info layanan,Mohon info upgrade paket,Gangguan Jaringan,UMKM,2025-10-11 20:15:30,Rendah
+Cara ganti password,Mau konsultasi fitur,Pertanyaan Teknis,UMKM,2025-11-02 20:15:30,Rendah
+Internet mati total,Sudah 10 jam tidak bisa akses,Gangguan Jaringan,UMKM,2025-10-20 20:15:30,Tinggi
+Koneksi tidak stabil,Koneksi tidak stabil,Gangguan Bandwidth,UMKM,2025-10-20 20:15:30,Sedang
+Info layanan,Request akses user baru,Request Layanan,Rumah,2025-11-13 20:15:30,Rendah
+Server down urgent,Error terus muncul,Gangguan Jaringan,UMKM,2025-10-01 20:15:30,Tinggi
+Upload gagal,Koneksi tidak stabil,Gangguan Bandwidth,UMKM,2025-10-18 20:15:30,Sedang
+Sering terputus,Koneksi sering terputus,Gangguan Sistem,Rumah,2025-11-08 20:15:30,Sedang
+Internet lambat,Koneksi tidak stabil,Pertanyaan Teknis,Rumah,2025-11-19 20:15:30,Sedang
+Internet lambat,Koneksi tidak stabil,Gangguan Jaringan,Rumah,2025-10-05 20:15:30,Sedang
+Koneksi terputus,Error terus muncul,Gangguan Sistem,Perusahaan,2025-10-17 20:15:30,Tinggi
+Server down urgent,Koneksi putus terus,Gangguan Sistem,Rumah,2025-11-16 20:15:30,Tinggi
+Upload gagal,Internet agak lambat,Gangguan Bandwidth,Rumah,2025-11-24 20:15:30,Sedang
+Sering terputus,Upload file gagal,Gangguan Bandwidth,UMKM,2025-10-23 20:15:30,Sedang
+Database tidak bisa diakses,Koneksi putus terus,Gangguan Sistem,Perusahaan,2025-10-21 20:15:30,Tinggi
+Konsultasi,Mau tanya cara setting,Gangguan Bandwidth,Rumah,2025-10-17 20:15:30,Rendah
+Internet lambat,Koneksi tidak stabil,Gangguan Jaringan,UMKM,2025-10-07 20:15:30,Sedang
+Pertanyaan setting,Mau tanya cara setting,Gangguan Jaringan,Perusahaan,2025-11-04 20:15:30,Rendah
+Internet lambat,Upload file gagal,Gangguan Bandwidth,UMKM,2025-11-13 20:15:30,Sedang
+Sistem error darurat,Sistem error sejak pagi,Gangguan Jaringan,Perusahaan,2025-10-07 20:15:30,Tinggi
+Konsultasi,Request akses user baru,Gangguan Sistem,UMKM,2025-10-29 20:15:30,Rendah
+Request akses,Request akses user baru,Gangguan Bandwidth,Rumah,2025-10-31 20:15:30,Rendah
+Pertanyaan setting,Mau konsultasi fitur,Gangguan Jaringan,Rumah,2025-11-08 20:15:30,Rendah
+Koneksi tidak stabil,Koneksi sering terputus,Gangguan Jaringan,Perusahaan,2025-10-28 20:15:30,Sedang
+Database tidak bisa diakses,Sudah 9 jam tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-16 20:15:30,Tinggi
+Database tidak bisa diakses,Error terus muncul,Gangguan Jaringan,Perusahaan,2025-11-23 20:15:30,Tinggi
+Server down urgent,Sistem error sejak pagi,Gangguan Jaringan,UMKM,2025-11-20 20:15:30,Tinggi
+Loading lama,Loading aplikasi lama,Pertanyaan Teknis,Rumah,2025-10-25 20:15:30,Sedang
+Konsultasi,Bisa bantu ganti password?,Gangguan Sistem,Perusahaan,2025-10-31 20:15:30,Rendah
+Upload gagal,Koneksi tidak stabil,Request Layanan,Rumah,2025-09-29 20:15:30,Sedang
+Koneksi tidak stabil,Loading aplikasi lama,Gangguan Jaringan,Perusahaan,2025-11-21 20:15:30,Sedang
+Koneksi terputus,Sistem error sejak pagi,Gangguan Jaringan,UMKM,2025-11-16 20:15:30,Tinggi
+Konsultasi,Request akses user baru,Gangguan Jaringan,Rumah,2025-10-24 20:15:30,Rendah
+Internet mati total,Sudah 7 jam tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-10-28 20:15:30,Tinggi
+Request akses,Request akses user baru,Gangguan Sistem,Rumah,2025-10-23 20:15:30,Rendah
+Loading lama,Internet agak lambat,Gangguan Bandwidth,Perusahaan,2025-10-08 20:15:30,Sedang
+Koneksi tidak stabil,Upload file gagal,Request Layanan,UMKM,2025-10-08 20:15:30,Sedang
+Sistem error darurat,Server down semua user tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-23 20:15:30,Tinggi
+Database tidak bisa diakses,Koneksi putus terus,Gangguan Sistem,Perusahaan,2025-10-28 20:15:30,Tinggi
+Upload gagal,Loading aplikasi lama,Gangguan Bandwidth,Rumah,2025-10-06 20:15:30,Sedang
+Cara ganti password,Mohon info upgrade paket,Gangguan Jaringan,Rumah,2025-11-19 20:15:30,Rendah
+Info layanan,Mohon info upgrade paket,Gangguan Bandwidth,Perusahaan,2025-10-10 20:15:30,Rendah
+Request akses,Mohon info upgrade paket,Gangguan Sistem,UMKM,2025-10-28 20:15:30,Rendah
+Internet lambat,Internet agak lambat,Gangguan Sistem,UMKM,2025-10-25 20:15:30,Sedang
+Database tidak bisa diakses,Error terus muncul,Gangguan Sistem,Perusahaan,2025-11-14 20:15:30,Tinggi
+Koneksi tidak stabil,Loading aplikasi lama,Gangguan Jaringan,Rumah,2025-10-21 20:15:30,Sedang
+Database tidak bisa diakses,Error terus muncul,Gangguan Jaringan,UMKM,2025-11-07 20:15:30,Tinggi
+Koneksi terputus,Server down semua user tidak bisa akses,Gangguan Sistem,Perusahaan,2025-10-21 20:15:30,Tinggi
+Koneksi tidak stabil,Koneksi sering terputus,Request Layanan,Rumah,2025-11-17 20:15:30,Sedang
+Koneksi terputus,Sistem error sejak pagi,Gangguan Jaringan,Perusahaan,2025-10-01 20:15:30,Tinggi
+Sering terputus,Upload file gagal,Gangguan Bandwidth,UMKM,2025-09-28 20:15:30,Sedang
+Internet lambat,Loading aplikasi lama,Request Layanan,Perusahaan,2025-09-26 20:15:30,Sedang
+Cara ganti password,Request akses user baru,Pertanyaan Teknis,Rumah,2025-11-15 20:15:30,Rendah
+Koneksi tidak stabil,Upload file gagal,Request Layanan,Rumah,2025-11-06 20:15:30,Sedang
+Cara ganti password,Mau konsultasi fitur,Gangguan Jaringan,Perusahaan,2025-11-13 20:15:30,Rendah
+Konsultasi,Bisa bantu ganti password?,Pertanyaan Teknis,Perusahaan,2025-11-01 20:15:30,Rendah
+Internet lambat,Koneksi tidak stabil,Gangguan Bandwidth,Rumah,2025-09-27 20:15:30,Sedang
+Sering terputus,Koneksi tidak stabil,Pertanyaan Teknis,UMKM,2025-10-07 20:15:30,Sedang
+Request akses,Mohon info upgrade paket,Gangguan Bandwidth,Rumah,2025-11-11 20:15:30,Rendah
+Upload gagal,Upload file gagal,Gangguan Jaringan,Rumah,2025-11-13 20:15:30,Sedang
+Konsultasi,Mau tanya cara setting,Gangguan Jaringan,UMKM,2025-09-29 20:15:30,Rendah
+Upload gagal,Koneksi tidak stabil,Request Layanan,Rumah,2025-11-24 20:15:30,Sedang
+Sistem error darurat,Sistem error sejak pagi,Gangguan Jaringan,Perusahaan,2025-11-16 20:15:30,Tinggi
+Internet lambat,Upload file gagal,Request Layanan,Perusahaan,2025-10-03 20:15:30,Sedang
+Database tidak bisa diakses,Server down semua user tidak bisa akses,Gangguan Sistem,UMKM,2025-10-14 20:15:30,Tinggi
+Internet mati total,Error terus muncul,Gangguan Jaringan,UMKM,2025-10-09 20:15:30,Tinggi
+Info layanan,Bisa bantu ganti password?,Gangguan Jaringan,UMKM,2025-11-15 20:15:30,Rendah
+Database tidak bisa diakses,Sudah 10 jam tidak bisa akses,Gangguan Jaringan,UMKM,2025-10-03 20:15:30,Tinggi
+Koneksi tidak stabil,Upload file gagal,Pertanyaan Teknis,Perusahaan,2025-11-17 20:15:30,Sedang
+Koneksi terputus,Sistem error sejak pagi,Gangguan Jaringan,Perusahaan,2025-11-16 20:15:30,Tinggi
+Request akses,Bisa bantu ganti password?,Gangguan Bandwidth,Perusahaan,2025-11-19 20:15:30,Rendah
+Database tidak bisa diakses,Server down semua user tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-10-15 20:15:30,Tinggi
+Internet lambat,Loading aplikasi lama,Gangguan Bandwidth,UMKM,2025-10-06 20:15:30,Sedang
+Internet lambat,Upload file gagal,Request Layanan,Rumah,2025-09-30 20:15:30,Sedang
+Koneksi terputus,Sudah 3 jam tidak bisa akses,Gangguan Sistem,UMKM,2025-10-14 20:15:30,Tinggi
+Loading lama,Koneksi tidak stabil,Gangguan Bandwidth,Perusahaan,2025-10-20 20:15:30,Sedang
+Sistem error darurat,Server down semua user tidak bisa akses,Gangguan Sistem,UMKM,2025-10-02 20:15:30,Tinggi
+Loading lama,Internet agak lambat,Gangguan Bandwidth,Rumah,2025-09-30 20:15:30,Sedang
+Internet lambat,Upload file gagal,Gangguan Bandwidth,Perusahaan,2025-10-01 20:15:30,Sedang
+Sistem error darurat,Koneksi putus terus,Gangguan Sistem,Perusahaan,2025-10-02 20:15:30,Tinggi
+Upload gagal,Koneksi sering terputus,Gangguan Bandwidth,Rumah,2025-10-03 20:15:30,Sedang
+Database tidak bisa diakses,Sudah 12 jam tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-11-14 20:15:30,Tinggi
+Sering terputus,Koneksi sering terputus,Gangguan Bandwidth,Perusahaan,2025-10-09 20:15:30,Sedang
+Database tidak bisa diakses,Sistem error sejak pagi,Gangguan Jaringan,Rumah,2025-09-30 20:15:30,Tinggi
+Sering terputus,Koneksi tidak stabil,Request Layanan,UMKM,2025-11-16 20:15:30,Sedang
+Info layanan,Mohon info upgrade paket,Request Layanan,Rumah,2025-10-12 20:15:30,Rendah
+Request akses,Mohon info upgrade paket,Pertanyaan Teknis,UMKM,2025-10-14 20:15:30,Rendah
+Database tidak bisa diakses,Koneksi putus terus,Gangguan Jaringan,Perusahaan,2025-11-13 20:15:30,Tinggi
+Koneksi terputus,Server down semua user tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-10-26 20:15:30,Tinggi
+Sering terputus,Koneksi sering terputus,Gangguan Bandwidth,Rumah,2025-11-25 20:15:30,Sedang
+Konsultasi,Mau konsultasi fitur,Gangguan Jaringan,Perusahaan,2025-10-05 20:15:30,Rendah
+Loading lama,Internet agak lambat,Request Layanan,Rumah,2025-10-10 20:15:30,Sedang
+Cara ganti password,Mohon info upgrade paket,Pertanyaan Teknis,Rumah,2025-11-09 20:15:30,Rendah
+Koneksi terputus,Server down semua user tidak bisa akses,Gangguan Sistem,UMKM,2025-11-19 20:15:30,Tinggi
+Loading lama,Koneksi tidak stabil,Pertanyaan Teknis,UMKM,2025-11-07 20:15:30,Sedang
+Cara ganti password,Mohon info upgrade paket,Gangguan Bandwidth,Rumah,2025-11-03 20:15:30,Rendah
+Internet lambat,Internet agak lambat,Gangguan Sistem,Rumah,2025-10-29 20:15:30,Sedang
+Pertanyaan setting,Request akses user baru,Gangguan Sistem,Rumah,2025-11-11 20:15:30,Rendah
+Koneksi tidak stabil,Loading aplikasi lama,Request Layanan,UMKM,2025-10-19 20:15:30,Sedang
+Request akses,Mohon info upgrade paket,Gangguan Bandwidth,UMKM,2025-11-16 20:15:30,Rendah
+Upload gagal,Upload file gagal,Request Layanan,Rumah,2025-10-09 20:15:30,Sedang
+Sistem error darurat,Sudah 7 jam tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-10-13 20:15:30,Tinggi
+Koneksi tidak stabil,Loading aplikasi lama,Gangguan Sistem,UMKM,2025-10-18 20:15:30,Sedang
+Loading lama,Loading aplikasi lama,Gangguan Jaringan,UMKM,2025-10-25 20:15:30,Sedang
+Sering terputus,Loading aplikasi lama,Request Layanan,UMKM,2025-10-10 20:15:30,Sedang
+Konsultasi,Mau konsultasi fitur,Request Layanan,UMKM,2025-11-22 20:15:30,Rendah
+Koneksi terputus,Koneksi putus terus,Gangguan Sistem,Perusahaan,2025-11-16 20:15:30,Tinggi
+Info layanan,Request akses user baru,Gangguan Sistem,Rumah,2025-11-06 20:15:30,Rendah
+Sistem error darurat,Error terus muncul,Gangguan Jaringan,Perusahaan,2025-11-13 20:15:30,Tinggi
+Koneksi tidak stabil,Loading aplikasi lama,Request Layanan,UMKM,2025-11-06 20:15:30,Sedang
+Koneksi terputus,Koneksi putus terus,Gangguan Sistem,Rumah,2025-10-11 20:15:30,Tinggi
+Sistem error darurat,Server down semua user tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-03 20:15:30,Tinggi
+Pertanyaan setting,Mau konsultasi fitur,Gangguan Jaringan,Rumah,2025-09-28 20:15:30,Rendah
+Koneksi tidak stabil,Koneksi tidak stabil,Gangguan Sistem,Rumah,2025-09-28 20:15:30,Sedang
+Upload gagal,Koneksi sering terputus,Gangguan Sistem,Rumah,2025-11-09 20:15:30,Sedang
+Koneksi tidak stabil,Loading aplikasi lama,Gangguan Sistem,Rumah,2025-10-21 20:15:30,Sedang
+Loading lama,Koneksi sering terputus,Pertanyaan Teknis,Rumah,2025-11-21 20:15:30,Sedang
+Pertanyaan setting,Bisa bantu ganti password?,Gangguan Bandwidth,Perusahaan,2025-10-12 20:15:30,Rendah
+Internet mati total,Sistem error sejak pagi,Gangguan Sistem,Perusahaan,2025-10-10 20:15:30,Tinggi
+Upload gagal,Koneksi sering terputus,Gangguan Jaringan,UMKM,2025-10-08 20:15:30,Sedang
+Cara ganti password,Request akses user baru,Gangguan Jaringan,Perusahaan,2025-10-04 20:15:30,Rendah
+Sering terputus,Koneksi sering terputus,Request Layanan,Rumah,2025-11-13 20:15:30,Sedang
+Koneksi terputus,Sistem error sejak pagi,Gangguan Jaringan,UMKM,2025-10-10 20:15:30,Tinggi
+Koneksi tidak stabil,Upload file gagal,Pertanyaan Teknis,UMKM,2025-11-01 20:15:30,Sedang
+Internet lambat,Koneksi sering terputus,Gangguan Jaringan,UMKM,2025-11-12 20:15:30,Sedang
+Internet mati total,Sudah 3 jam tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-10-27 20:15:30,Tinggi
+Upload gagal,Loading aplikasi lama,Gangguan Jaringan,Rumah,2025-11-02 20:15:30,Sedang
+Sistem error darurat,Sudah 11 jam tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-09 20:15:30,Tinggi
+Loading lama,Loading aplikasi lama,Gangguan Sistem,Perusahaan,2025-10-15 20:15:30,Sedang
+Koneksi terputus,Server down semua user tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-15 20:15:30,Tinggi
+Database tidak bisa diakses,Koneksi putus terus,Gangguan Jaringan,Perusahaan,2025-10-12 20:15:30,Tinggi
+Internet lambat,Koneksi sering terputus,Request Layanan,UMKM,2025-10-11 20:15:30,Sedang
+Internet mati total,Koneksi putus terus,Gangguan Jaringan,Perusahaan,2025-11-18 20:15:30,Tinggi
+Konsultasi,Bisa bantu ganti password?,Gangguan Jaringan,Perusahaan,2025-10-12 20:15:30,Rendah
+Konsultasi,Mau konsultasi fitur,Pertanyaan Teknis,Rumah,2025-11-25 20:15:30,Rendah
+Internet lambat,Upload file gagal,Gangguan Sistem,UMKM,2025-10-21 20:15:30,Sedang
+Server down urgent,Koneksi putus terus,Gangguan Sistem,Perusahaan,2025-11-24 20:15:30,Tinggi
+Database tidak bisa diakses,Error terus muncul,Gangguan Jaringan,Perusahaan,2025-10-25 20:15:30,Tinggi
+Sering terputus,Internet agak lambat,Request Layanan,Rumah,2025-10-28 20:15:30,Sedang
+Koneksi tidak stabil,Internet agak lambat,Request Layanan,Rumah,2025-10-14 20:15:30,Sedang
+Server down urgent,Sudah 11 jam tidak bisa akses,Gangguan Sistem,Perusahaan,2025-10-04 20:15:30,Tinggi
+Sering terputus,Internet agak lambat,Gangguan Jaringan,UMKM,2025-10-09 20:15:30,Sedang
+Koneksi tidak stabil,Internet agak lambat,Request Layanan,UMKM,2025-11-08 20:15:30,Sedang
+Internet lambat,Koneksi sering terputus,Gangguan Bandwidth,UMKM,2025-10-28 20:15:30,Sedang
+Koneksi terputus,Error terus muncul,Gangguan Jaringan,UMKM,2025-10-17 20:15:30,Tinggi
+Server down urgent,Sistem error sejak pagi,Gangguan Sistem,Perusahaan,2025-11-06 20:15:30,Tinggi
+Server down urgent,Error terus muncul,Gangguan Sistem,UMKM,2025-11-05 20:15:30,Tinggi
+Internet lambat,Internet agak lambat,Gangguan Sistem,Rumah,2025-10-26 20:15:30,Sedang
+Koneksi tidak stabil,Koneksi sering terputus,Gangguan Jaringan,UMKM,2025-09-28 20:15:30,Sedang
+Internet lambat,Loading aplikasi lama,Gangguan Jaringan,UMKM,2025-11-11 20:15:30,Sedang
+Internet lambat,Koneksi tidak stabil,Request Layanan,Rumah,2025-11-03 20:15:30,Sedang
+Koneksi terputus,Sistem error sejak pagi,Gangguan Sistem,Perusahaan,2025-10-30 20:15:30,Tinggi
+Internet lambat,Upload file gagal,Pertanyaan Teknis,Perusahaan,2025-10-14 20:15:30,Sedang
+Sering terputus,Upload file gagal,Request Layanan,UMKM,2025-10-22 20:15:30,Sedang
+Koneksi terputus,Error terus muncul,Gangguan Jaringan,Perusahaan,2025-10-07 20:15:30,Tinggi
+Server down urgent,Error terus muncul,Gangguan Sistem,Rumah,2025-11-09 20:15:30,Tinggi
+Request akses,Mohon info upgrade paket,Gangguan Jaringan,Perusahaan,2025-10-30 20:15:30,Rendah
+Cara ganti password,Mau tanya cara setting,Gangguan Bandwidth,Perusahaan,2025-09-27 20:15:30,Rendah
+Internet lambat,Upload file gagal,Gangguan Jaringan,UMKM,2025-10-11 20:15:30,Sedang
+Internet mati total,Sistem error sejak pagi,Gangguan Sistem,UMKM,2025-11-17 20:15:30,Tinggi
+Info layanan,Request akses user baru,Gangguan Jaringan,UMKM,2025-11-14 20:15:30,Rendah
+Konsultasi,Mau konsultasi fitur,Pertanyaan Teknis,UMKM,2025-09-30 20:15:30,Rendah
+Konsultasi,Mohon info upgrade paket,Gangguan Jaringan,Rumah,2025-11-16 20:15:30,Rendah
+Pertanyaan setting,Mau tanya cara setting,Gangguan Jaringan,Rumah,2025-10-01 20:15:30,Rendah
+Loading lama,Upload file gagal,Gangguan Jaringan,Rumah,2025-11-07 20:15:30,Sedang
+Koneksi tidak stabil,Loading aplikasi lama,Gangguan Jaringan,Rumah,2025-10-25 20:15:30,Sedang
+Database tidak bisa diakses,Server down semua user tidak bisa akses,Gangguan Sistem,Rumah,2025-10-27 20:15:30,Tinggi
+Internet lambat,Internet agak lambat,Gangguan Bandwidth,Perusahaan,2025-10-09 20:15:30,Sedang
+Konsultasi,Mohon info upgrade paket,Request Layanan,Perusahaan,2025-11-06 20:15:30,Rendah
+Internet lambat,Upload file gagal,Gangguan Bandwidth,UMKM,2025-11-21 20:15:30,Sedang
+Cara ganti password,Mau tanya cara setting,Gangguan Bandwidth,Perusahaan,2025-10-31 20:15:30,Rendah
+Sering terputus,Internet agak lambat,Gangguan Sistem,Perusahaan,2025-10-20 20:15:30,Sedang
+Upload gagal,Koneksi tidak stabil,Request Layanan,Perusahaan,2025-10-01 20:15:30,Sedang
+Server down urgent,Server down semua user tidak bisa akses,Gangguan Jaringan,Rumah,2025-10-28 20:15:30,Tinggi
+Internet mati total,Koneksi putus terus,Gangguan Jaringan,Perusahaan,2025-11-07 20:15:30,Tinggi
+Internet lambat,Koneksi tidak stabil,Gangguan Bandwidth,Rumah,2025-10-21 20:15:30,Sedang
+Koneksi tidak stabil,Koneksi tidak stabil,Gangguan Bandwidth,UMKM,2025-10-24 20:15:30,Sedang
+Upload gagal,Upload file gagal,Gangguan Sistem,Rumah,2025-11-19 20:15:30,Sedang
+Server down urgent,Sudah 8 jam tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-09-29 20:15:30,Tinggi
+Info layanan,Mohon info upgrade paket,Request Layanan,Rumah,2025-10-08 20:15:30,Rendah
+Server down urgent,Koneksi putus terus,Gangguan Jaringan,Perusahaan,2025-11-01 20:15:30,Tinggi
+Koneksi terputus,Server down semua user tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-11-15 20:15:30,Tinggi
+Koneksi tidak stabil,Koneksi sering terputus,Request Layanan,Rumah,2025-10-31 20:15:30,Sedang
+Internet mati total,Server down semua user tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-11-24 20:15:30,Tinggi
+Pertanyaan setting,Mohon info upgrade paket,Gangguan Bandwidth,Rumah,2025-10-21 20:15:30,Rendah
+Internet lambat,Koneksi sering terputus,Gangguan Bandwidth,Rumah,2025-10-18 20:15:30,Sedang
+Internet lambat,Internet agak lambat,Gangguan Bandwidth,Rumah,2025-11-19 20:15:30,Sedang
+Database tidak bisa diakses,Koneksi putus terus,Gangguan Sistem,Rumah,2025-11-08 20:15:30,Tinggi
+Cara ganti password,Mohon info upgrade paket,Request Layanan,Perusahaan,2025-10-25 20:15:30,Rendah
+Konsultasi,Bisa bantu ganti password?,Request Layanan,UMKM,2025-11-17 20:15:30,Rendah
+Upload gagal,Upload file gagal,Gangguan Bandwidth,Perusahaan,2025-10-10 20:15:30,Sedang
+Koneksi tidak stabil,Loading aplikasi lama,Gangguan Jaringan,Perusahaan,2025-10-17 20:15:30,Sedang
+Internet lambat,Internet agak lambat,Request Layanan,Rumah,2025-10-18 20:15:30,Sedang
+Koneksi tidak stabil,Koneksi sering terputus,Pertanyaan Teknis,Rumah,2025-11-01 20:15:30,Sedang
+Loading lama,Koneksi sering terputus,Gangguan Jaringan,Rumah,2025-10-16 20:15:30,Sedang
+Koneksi tidak stabil,Loading aplikasi lama,Gangguan Sistem,UMKM,2025-09-29 20:15:30,Sedang
+Koneksi terputus,Server down semua user tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-11-25 20:15:30,Tinggi
+Internet mati total,Sudah 9 jam tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-10-20 20:15:30,Tinggi
+Sistem error darurat,Server down semua user tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-10-10 20:15:30,Tinggi
+Upload gagal,Koneksi tidak stabil,Gangguan Jaringan,Rumah,2025-11-02 20:15:30,Sedang
+Upload gagal,Koneksi sering terputus,Gangguan Bandwidth,UMKM,2025-10-03 20:15:30,Sedang
+Cara ganti password,Mau konsultasi fitur,Gangguan Sistem,Perusahaan,2025-11-20 20:15:30,Rendah
+Sering terputus,Loading aplikasi lama,Gangguan Sistem,Rumah,2025-10-04 20:15:30,Sedang
+Info layanan,Mau konsultasi fitur,Gangguan Sistem,Rumah,2025-09-29 20:15:30,Rendah
+Loading lama,Koneksi sering terputus,Request Layanan,Rumah,2025-11-11 20:15:30,Sedang
+Internet lambat,Internet agak lambat,Gangguan Bandwidth,UMKM,2025-09-28 20:15:30,Sedang
+Pertanyaan setting,Bisa bantu ganti password?,Request Layanan,Rumah,2025-10-09 20:15:30,Rendah
+Internet mati total,Sudah 6 jam tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-10-10 20:15:30,Tinggi
+Loading lama,Koneksi sering terputus,Pertanyaan Teknis,Perusahaan,2025-11-20 20:15:30,Sedang
+Koneksi tidak stabil,Loading aplikasi lama,Gangguan Sistem,UMKM,2025-11-04 20:15:30,Sedang
+Pertanyaan setting,Mau tanya cara setting,Request Layanan,UMKM,2025-10-05 20:15:30,Rendah
+Server down urgent,Sudah 2 jam tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-11-11 20:15:30,Tinggi
+Koneksi terputus,Sistem error sejak pagi,Gangguan Sistem,UMKM,2025-10-24 20:15:30,Tinggi
+Koneksi terputus,Sudah 9 jam tidak bisa akses,Gangguan Sistem,Rumah,2025-10-04 20:15:30,Tinggi
+Internet lambat,Upload file gagal,Request Layanan,UMKM,2025-10-08 20:15:30,Sedang
+Koneksi terputus,Error terus muncul,Gangguan Jaringan,UMKM,2025-10-12 20:15:30,Tinggi
+Sering terputus,Koneksi sering terputus,Gangguan Sistem,Perusahaan,2025-10-26 20:15:30,Sedang
+Upload gagal,Internet agak lambat,Request Layanan,Rumah,2025-11-19 20:15:30,Sedang
+Internet mati total,Koneksi putus terus,Gangguan Sistem,UMKM,2025-09-28 20:15:30,Tinggi
+Info layanan,Mohon info upgrade paket,Gangguan Sistem,Perusahaan,2025-09-30 20:15:30,Rendah
+Internet mati total,Koneksi putus terus,Gangguan Sistem,Perusahaan,2025-11-24 20:15:30,Tinggi
+Info layanan,Mau konsultasi fitur,Gangguan Jaringan,UMKM,2025-09-29 20:15:30,Rendah
+Koneksi tidak stabil,Loading aplikasi lama,Gangguan Sistem,UMKM,2025-10-13 20:15:30,Sedang
+Internet lambat,Internet agak lambat,Gangguan Bandwidth,UMKM,2025-10-12 20:15:30,Sedang
+Internet mati total,Server down semua user tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-11-16 20:15:30,Tinggi
+Database tidak bisa diakses,Error terus muncul,Gangguan Jaringan,UMKM,2025-10-08 20:15:30,Tinggi
+Konsultasi,Request akses user baru,Request Layanan,Perusahaan,2025-10-10 20:15:30,Rendah
+Internet mati total,Sudah 9 jam tidak bisa akses,Gangguan Sistem,UMKM,2025-10-11 20:15:30,Tinggi
+Internet lambat,Loading aplikasi lama,Request Layanan,Perusahaan,2025-10-29 20:15:30,Sedang
+Internet lambat,Koneksi sering terputus,Gangguan Sistem,Perusahaan,2025-11-10 20:15:30,Sedang
+Pertanyaan setting,Request akses user baru,Gangguan Jaringan,Perusahaan,2025-11-04 20:15:30,Rendah
+Cara ganti password,Mau tanya cara setting,Gangguan Sistem,Rumah,2025-10-27 20:15:30,Rendah
+Pertanyaan setting,Mau tanya cara setting,Request Layanan,Perusahaan,2025-10-08 20:15:30,Rendah
+Database tidak bisa diakses,Sudah 4 jam tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-11-10 20:15:30,Tinggi
+Konsultasi,Bisa bantu ganti password?,Request Layanan,Perusahaan,2025-10-24 20:15:30,Rendah
+Request akses,Bisa bantu ganti password?,Gangguan Bandwidth,Rumah,2025-10-05 20:15:30,Rendah
+Sering terputus,Upload file gagal,Pertanyaan Teknis,Perusahaan,2025-11-18 20:15:30,Sedang
+Koneksi terputus,Koneksi putus terus,Gangguan Jaringan,Perusahaan,2025-10-05 20:15:30,Tinggi
+Internet lambat,Loading aplikasi lama,Gangguan Jaringan,UMKM,2025-10-15 20:15:30,Sedang
+Info layanan,Bisa bantu ganti password?,Pertanyaan Teknis,UMKM,2025-10-25 20:15:30,Rendah
+Koneksi tidak stabil,Internet agak lambat,Pertanyaan Teknis,UMKM,2025-10-08 20:15:30,Sedang
+Sering terputus,Internet agak lambat,Gangguan Sistem,Rumah,2025-11-16 20:15:30,Sedang
+Sering terputus,Koneksi sering terputus,Gangguan Sistem,UMKM,2025-10-19 20:15:30,Sedang
+Server down urgent,Koneksi putus terus,Gangguan Sistem,Perusahaan,2025-09-26 20:15:30,Tinggi
+Info layanan,Bisa bantu ganti password?,Gangguan Jaringan,UMKM,2025-10-15 20:15:30,Rendah
+Koneksi tidak stabil,Koneksi sering terputus,Request Layanan,Perusahaan,2025-11-12 20:15:30,Sedang
+Upload gagal,Koneksi sering terputus,Pertanyaan Teknis,UMKM,2025-10-18 20:15:30,Sedang
+Database tidak bisa diakses,Sistem error sejak pagi,Gangguan Jaringan,Perusahaan,2025-11-25 20:15:30,Tinggi
+Internet mati total,Server down semua user tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-22 20:15:30,Tinggi
+Pertanyaan setting,Bisa bantu ganti password?,Gangguan Sistem,Perusahaan,2025-11-15 20:15:30,Rendah
+Konsultasi,Mau konsultasi fitur,Gangguan Sistem,Rumah,2025-09-27 20:15:30,Rendah
+Koneksi terputus,Server down semua user tidak bisa akses,Gangguan Sistem,Perusahaan,2025-11-15 20:15:30,Tinggi
+Koneksi tidak stabil,Loading aplikasi lama,Gangguan Bandwidth,UMKM,2025-11-23 20:15:30,Sedang
+Internet lambat,Upload file gagal,Gangguan Sistem,UMKM,2025-11-24 20:15:30,Sedang
+Upload gagal,Loading aplikasi lama,Gangguan Sistem,Rumah,2025-11-08 20:15:30,Sedang
+Sistem error darurat,Sudah 9 jam tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-10-20 20:15:30,Tinggi
+Koneksi tidak stabil,Koneksi tidak stabil,Gangguan Jaringan,Perusahaan,2025-10-15 20:15:30,Sedang
+Sering terputus,Upload file gagal,Gangguan Bandwidth,Perusahaan,2025-11-23 20:15:30,Sedang
+Cara ganti password,Mau tanya cara setting,Gangguan Sistem,Rumah,2025-11-16 20:15:30,Rendah
+Loading lama,Loading aplikasi lama,Gangguan Bandwidth,Rumah,2025-10-02 20:15:30,Sedang
+Database tidak bisa diakses,Error terus muncul,Gangguan Sistem,Perusahaan,2025-10-23 20:15:30,Tinggi
+Loading lama,Koneksi sering terputus,Gangguan Jaringan,Perusahaan,2025-11-06 20:15:30,Sedang
+Konsultasi,Mau konsultasi fitur,Gangguan Bandwidth,UMKM,2025-10-11 20:15:30,Rendah
+Info layanan,Bisa bantu ganti password?,Gangguan Bandwidth,Rumah,2025-10-05 20:15:30,Rendah
+Cara ganti password,Mau konsultasi fitur,Gangguan Bandwidth,UMKM,2025-10-18 20:15:30,Rendah
+Loading lama,Upload file gagal,Pertanyaan Teknis,Perusahaan,2025-11-25 20:15:30,Sedang
+Internet lambat,Internet agak lambat,Gangguan Jaringan,UMKM,2025-10-03 20:15:30,Sedang
+Info layanan,Request akses user baru,Gangguan Bandwidth,UMKM,2025-10-30 20:15:30,Rendah
+Konsultasi,Request akses user baru,Request Layanan,UMKM,2025-11-25 20:15:30,Rendah
+Cara ganti password,Mau konsultasi fitur,Request Layanan,Perusahaan,2025-11-10 20:15:30,Rendah
+Pertanyaan setting,Mau tanya cara setting,Gangguan Bandwidth,UMKM,2025-10-03 20:15:30,Rendah
+Pertanyaan setting,Mau tanya cara setting,Gangguan Bandwidth,Perusahaan,2025-09-27 20:15:30,Rendah
+Sering terputus,Koneksi sering terputus,Gangguan Sistem,Perusahaan,2025-11-09 20:15:30,Sedang
+Upload gagal,Koneksi sering terputus,Gangguan Sistem,Rumah,2025-10-08 20:15:30,Sedang
+Koneksi terputus,Error terus muncul,Gangguan Sistem,Perusahaan,2025-10-03 20:15:30,Tinggi
+Loading lama,Koneksi sering terputus,Gangguan Sistem,Rumah,2025-10-01 20:15:30,Sedang
+Sering terputus,Internet agak lambat,Pertanyaan Teknis,Perusahaan,2025-11-22 20:15:30,Sedang
+Internet lambat,Koneksi tidak stabil,Gangguan Sistem,Rumah,2025-11-24 20:15:30,Sedang
+Konsultasi,Mohon info upgrade paket,Gangguan Bandwidth,Perusahaan,2025-11-09 20:15:30,Rendah
+Cara ganti password,Mau tanya cara setting,Request Layanan,Rumah,2025-10-08 20:15:30,Rendah
+Koneksi tidak stabil,Koneksi tidak stabil,Request Layanan,Perusahaan,2025-11-09 20:15:30,Sedang
+Koneksi tidak stabil,Internet agak lambat,Gangguan Sistem,UMKM,2025-11-03 20:15:30,Sedang
+Internet mati total,Sudah 6 jam tidak bisa akses,Gangguan Jaringan,UMKM,2025-10-24 20:15:30,Tinggi
+Konsultasi,Mau tanya cara setting,Gangguan Jaringan,UMKM,2025-10-20 20:15:30,Rendah
+Info layanan,Mohon info upgrade paket,Pertanyaan Teknis,UMKM,2025-11-08 20:15:30,Rendah
+Koneksi terputus,Koneksi putus terus,Gangguan Jaringan,Perusahaan,2025-11-25 20:15:30,Tinggi
+Upload gagal,Upload file gagal,Request Layanan,UMKM,2025-10-16 20:15:30,Sedang
+Cara ganti password,Mau tanya cara setting,Gangguan Jaringan,Perusahaan,2025-11-07 20:15:30,Rendah
+Loading lama,Koneksi sering terputus,Pertanyaan Teknis,Rumah,2025-11-22 20:15:30,Sedang
+Koneksi terputus,Sudah 12 jam tidak bisa akses,Gangguan Jaringan,UMKM,2025-10-28 20:15:30,Tinggi
+Sering terputus,Koneksi sering terputus,Gangguan Bandwidth,UMKM,2025-11-16 20:15:30,Sedang
+Sistem error darurat,Sistem error sejak pagi,Gangguan Sistem,Perusahaan,2025-11-09 20:15:30,Tinggi
+Koneksi terputus,Sudah 8 jam tidak bisa akses,Gangguan Sistem,Rumah,2025-10-28 20:15:30,Tinggi
+Sistem error darurat,Error terus muncul,Gangguan Sistem,Perusahaan,2025-11-17 20:15:30,Tinggi
+Sistem error darurat,Server down semua user tidak bisa akses,Gangguan Jaringan,Rumah,2025-11-12 20:15:30,Tinggi
+Koneksi terputus,Server down semua user tidak bisa akses,Gangguan Jaringan,Perusahaan,2025-11-21 20:15:30,Tinggi
+Sering terputus,Loading aplikasi lama,Gangguan Jaringan,Perusahaan,2025-11-05 20:15:30,Sedang
+Cara ganti password,Request akses user baru,Pertanyaan Teknis,Rumah,2025-10-18 20:15:30,Rendah
+Konsultasi,Bisa bantu ganti password?,Gangguan Sistem,Rumah,2025-10-20 20:15:30,Rendah
+Koneksi tidak stabil,Loading aplikasi lama,Gangguan Sistem,Perusahaan,2025-11-01 20:15:30,Sedang
+Konsultasi,Bisa bantu ganti password?,Request Layanan,Rumah,2025-10-28 20:15:30,Rendah
+Konsultasi,Mau tanya cara setting,Gangguan Bandwidth,UMKM,2025-11-14 20:15:30,Rendah
+Internet mati total,Server down semua user tidak bisa akses,Gangguan Sistem,Perusahaan,2025-10-08 20:15:30,Tinggi
+Upload gagal,Loading aplikasi lama,Gangguan Bandwidth,Perusahaan,2025-10-04 20:15:30,Sedang
+Pertanyaan setting,Mau tanya cara setting,Gangguan Jaringan,Perusahaan,2025-11-23 20:15:30,Rendah

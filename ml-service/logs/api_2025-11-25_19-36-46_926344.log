@@ -1,0 +1,62 @@
+2025-11-25 19:37:08.872 | INFO     | __main__:load_model_files:39 - ✅ Model reloaded successfully into memory
+2025-11-25 19:37:45.587 | INFO     | __main__:predict:108 - Prediction: Tinggi (0.53)
+2025-11-25 19:41:43.212 | INFO     | __main__:predict:108 - Prediction: Sedang (0.48)
+2025-11-25 19:41:43.381 | INFO     | __main__:run_training_and_reload:123 - ⏳ Starting background training...
+2025-11-25 19:41:48.200 | ERROR    | __main__:run_training_and_reload:137 - ❌ Training failed: Traceback (most recent call last):
+  File "D:\KERJAAN\ml-apps\ml-service\training.py", line 96, in <module>
+    train_model()
+    ~~~~~~~~~~~^^
+  File "D:\KERJAAN\ml-apps\ml-service\training.py", line 19, in train_model
+    print(f"\u2705 Data loaded: {len(df)} rows")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+
+2025-11-25 19:44:30.628 | INFO     | __main__:predict:108 - Prediction: Sedang (0.48)
+2025-11-25 19:45:03.957 | INFO     | __main__:predict:108 - Prediction: Rendah (0.57)
+2025-11-25 19:45:04.070 | INFO     | __main__:run_training_and_reload:123 - ⏳ Starting background training...
+2025-11-25 19:45:09.953 | ERROR    | __main__:run_training_and_reload:137 - ❌ Training failed: Traceback (most recent call last):
+  File "D:\KERJAAN\ml-apps\ml-service\training.py", line 96, in <module>
+    train_model()
+    ~~~~~~~~~~~^^
+  File "D:\KERJAAN\ml-apps\ml-service\training.py", line 19, in train_model
+    print(f"\u2705 Data loaded: {len(df)} rows")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+
+2025-11-25 19:46:46.462 | INFO     | __main__:predict:108 - Prediction: Rendah (0.57)
+2025-11-25 19:46:46.560 | INFO     | __main__:run_training_and_reload:123 - ⏳ Starting background training...
+2025-11-25 19:46:51.058 | ERROR    | __main__:run_training_and_reload:137 - ❌ Training failed: Traceback (most recent call last):
+  File "D:\KERJAAN\ml-apps\ml-service\training.py", line 96, in <module>
+    train_model()
+    ~~~~~~~~~~~^^
+  File "D:\KERJAAN\ml-apps\ml-service\training.py", line 44, in train_model
+    X_train, X_test, y_train, y_test = train_test_split(
+                                       ~~~~~~~~~~~~~~~~^
+        X, y, test_size=0.2, random_state=42, stratify=y
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Yoga\AppData\Roaming\Python\Python314\site-packages\sklearn\utils\_param_validation.py", line 218, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Yoga\AppData\Roaming\Python\Python314\site-packages\sklearn\model_selection\_split.py", line 2940, in train_test_split
+    train, test = next(cv.split(X=arrays[0], y=stratify))
+                  ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Yoga\AppData\Roaming\Python\Python314\site-packages\sklearn\model_selection\_split.py", line 1927, in split
+    for train, test in self._iter_indices(X, y, groups):
+                       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Yoga\AppData\Roaming\Python\Python314\site-packages\sklearn\model_selection\_split.py", line 2355, in _iter_indices
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The test_size = 2 should be greater or equal to the number of classes = 3
+
+2025-11-25 19:50:03.960 | INFO     | __main__:predict:108 - Prediction: Rendah (0.57)
+2025-11-25 19:50:04.126 | INFO     | __main__:run_training_and_reload:123 - ⏳ Starting background training...
+2025-11-25 19:50:10.482 | INFO     | __main__:run_training_and_reload:133 - ✅ Training finished. Reloading model...
+2025-11-25 19:50:10.599 | INFO     | __main__:load_model_files:39 - ✅ Model reloaded successfully into memory

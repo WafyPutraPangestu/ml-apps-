@@ -1,0 +1,4 @@
+2025-11-17 10:14:08.293 | INFO     | __main__:<module>:26 - ✅ Model loaded
+2025-11-17 10:15:08.101 | INFO     | __main__:predict:86 - Prediction: Sedang (0.39) | wifi mati | perusahaan
+2025-11-17 10:25:33.929 | INFO     | __main__:predict:86 - Prediction: Tinggi (0.45) | wifi mati | perusahaan
+2025-11-17 15:12:40.402 | INFO     | __main__:predict:86 - Prediction: Tinggi (0.46) | wifi mati | perusahaan
