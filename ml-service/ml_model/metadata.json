@@ -1,5 +1,92 @@
 {
-  "training_date": "2026-02-19T14:01:50.717360",
-  "accuracy": 1.0,
-  "dataset_size": 1000
+  "training_date": "2026-04-09T16:11:41.739828",
+  "model_version": "3.0.0",
+  "algorithm": "RandomForestClassifier",
+  "dataset": {
+    "path": "dataset/training_data.csv",
+    "total_rows": 1000,
+    "class_distribution": {
+      "Sedang": 466,
+      "Rendah": 290,
+      "Tinggi": 244
+    }
+  },
+  "hyperparameters": {
+    "n_estimators": 200,
+    "max_depth": 10,
+    "min_samples_leaf": 4,
+    "max_features": "sqrt",
+    "tfidf_max_features": 1000,
+    "tfidf_ngram_range": "1,2",
+    "tfidf_min_df": 2
+  },
+  "performance": {
+    "train_accuracy": 0.9225,
+    "test_accuracy": 0.89,
+    "overfit_gap": 0.0325,
+    "overfit_status": "GOOD — tidak overfit",
+    "cross_validation": {
+      "folds": 5,
+      "mean": 0.916,
+      "std": 0.0203,
+      "scores": [
+        0.89,
+        0.95,
+        0.91,
+        0.925,
+        0.905
+      ]
+    },
+    "per_class_metrics": {
+      "Tinggi": {
+        "precision": 0.8627,
+        "recall": 0.898,
+        "f1_score": 0.88,
+        "support": 49
+      },
+      "Sedang": {
+        "precision": 0.8989,
+        "recall": 0.8602,
+        "f1_score": 0.8791,
+        "support": 93
+      },
+      "Rendah": {
+        "precision": 0.9,
+        "recall": 0.931,
+        "f1_score": 0.9153,
+        "support": 58
+      }
+    },
+    "confusion_matrix": {
+      "labels": [
+        "Tinggi",
+        "Sedang",
+        "Rendah"
+      ],
+      "matrix": [
+        [
+          44,
+          5,
+          0
+        ],
+        [
+          7,
+          80,
+          6
+        ],
+        [
+          0,
+          4,
+          54
+        ]
+      ]
+    }
+  },
+  "features_used": [
+    "judul",
+    "deskripsi",
+    "kategori_gangguan",
+    "kategori_pelanggan"
+  ],
+  "trained_by": "Tim IT - Helpdesk"
 }

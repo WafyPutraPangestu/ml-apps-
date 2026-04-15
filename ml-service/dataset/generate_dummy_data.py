@@ -1,92 +1,106 @@
 import pandas as pd
 import random
 from datetime import datetime, timedelta
-
-print("="*50)
-print("GENERATING DUMMY DATASET")
-print("="*50)
-print()
+import os
 
 TEMPLATES = {
     'Tinggi': {
         'judul': [
-            'Internet mati total',
-            'Server down urgent',
-            'Sistem error darurat',
-            'Koneksi terputus',
-            'Database tidak bisa diakses'
+            'Internet mati total sejak tadi malam',
+            'Server down, semua user tidak bisa akses',
+            'Sistem error darurat, operasional terhenti',
+            'Koneksi terputus total lebih dari 3 jam',
+            'Database tidak bisa diakses sama sekali',
+            'Gangguan jaringan parah, kantor tidak bisa bekerja',
+            'Email server down urgent',
+            'VPN tidak bisa connect, WFH terganggu',
         ],
         'deskripsi': [
-            'Sudah {n} jam tidak bisa akses',
-            'Sistem error sejak pagi',
-            'Koneksi putus terus',
-            'Server down semua user tidak bisa akses',
-            'Error terus muncul'
-        ]
+            'Sudah {n} jam tidak bisa akses internet sama sekali. Seluruh tim tidak bisa bekerja.',
+            'Server down mendadak sejak pukul 08.00. Semua user terdampak, aktivitas bisnis berhenti.',
+            'Koneksi putus total. Sudah coba restart router tapi tidak membantu. Sangat urgent.',
+            'Error 503 terus muncul. Database tidak bisa diakses. Sudah {n} jam.',
+            'Sistem kami lumpuh total. Tolong segera ditangani karena berdampak ke pelanggan kami.',
+        ],
+        'kategori_gangguan': ['Gangguan Jaringan', 'Gangguan Sistem', 'Gangguan Jaringan', 'Gangguan Bandwidth'],
+        'kategori_pelanggan_weights': {'Perusahaan': 0.65, 'UMKM': 0.25, 'Rumah': 0.10},
     },
     'Sedang': {
         'judul': [
-            'Internet lambat',
-            'Koneksi tidak stabil',
-            'Loading lama',
-            'Sering terputus',
-            'Upload gagal'
+            'Internet sangat lambat sejak kemarin',
+            'Koneksi tidak stabil, sering putus',
+            'Loading aplikasi sangat lama',
+            'Upload file selalu gagal',
+            'Video call sering lag dan putus',
+            'Kecepatan internet jauh di bawah paket',
+            'Streaming buffering terus',
+            'Koneksi fluktuatif sepanjang hari',
         ],
         'deskripsi': [
-            'Internet agak lambat',
-            'Koneksi sering terputus',
-            'Loading aplikasi lama',
-            'Koneksi tidak stabil',
-            'Upload file gagal'
-        ]
+            'Kecepatan internet sangat lambat, tidak sesuai paket yang dibayar. Sudah {n} hari.',
+            'Koneksi sering terputus setiap {n} menit. Sangat mengganggu pekerjaan.',
+            'Loading halaman web dan aplikasi sangat lama, padahal dulu normal.',
+            'Upload file berukuran besar selalu gagal di tengah jalan.',
+            'Video call dengan klien sering putus dan laggy, sangat memalukan.',
+            'Speedtest menunjukkan hanya {n} Mbps padahal paket 100 Mbps.',
+        ],
+        'kategori_gangguan': ['Gangguan Bandwidth', 'Gangguan Jaringan', 'Gangguan Bandwidth', 'Gangguan Sistem'],
+        'kategori_pelanggan_weights': {'Perusahaan': 0.40, 'UMKM': 0.35, 'Rumah': 0.25},
     },
     'Rendah': {
         'judul': [
-            'Pertanyaan setting',
-            'Cara ganti password',
-            'Info layanan',
-            'Request akses',
-            'Konsultasi'
+            'Pertanyaan cara setting router',
+            'Minta info upgrade paket internet',
+            'Cara ganti password WiFi',
+            'Request penambahan akses user',
+            'Konsultasi paket untuk kantor baru',
+            'Tanya jadwal maintenance rutin',
+            'Info biaya tambah bandwidth',
+            'Cara setting email di Outlook',
         ],
         'deskripsi': [
-            'Mau tanya cara setting',
-            'Bisa bantu ganti password?',
-            'Mohon info upgrade paket',
-            'Mau konsultasi fitur',
-            'Request akses user baru'
-        ]
+            'Mau tanya bagaimana cara setting router agar optimal.',
+            'Ingin konsultasi untuk upgrade ke paket yang lebih tinggi.',
+            'Bisa bantu panduan cara ganti password WiFi secara mandiri?',
+            'Mohon dibuatkan akses untuk {n} user baru yang baru bergabung.',
+            'Kami akan buka kantor baru, mau konsultasi paket yang cocok.',
+            'Minta info jadwal maintenance agar bisa siapkan backup.',
+        ],
+        'kategori_gangguan': ['Pertanyaan Teknis', 'Request Layanan', 'Pertanyaan Teknis'],
+        'kategori_pelanggan_weights': {'Rumah': 0.45, 'UMKM': 0.35, 'Perusahaan': 0.20},
     }
 }
 
-KATEGORI = ['Gangguan Jaringan', 'Gangguan Bandwidth', 'Gangguan Sistem', 
-            'Pertanyaan Teknis', 'Request Layanan']
-PELANGGAN = ['Rumah', 'Perusahaan', 'UMKM']
+def weighted_choice(weight_dict):
+    keys = list(weight_dict.keys())
+    weights = list(weight_dict.values())
+    return random.choices(keys, weights=weights)[0]
 
 def generate_dataset(n=1000):
     data = []
-    priorities = ['Tinggi']*300 + ['Sedang']*400 + ['Rendah']*300
+    priorities = ['Tinggi'] * int(n*0.25) + ['Sedang'] * int(n*0.45) + ['Rendah'] * int(n*0.30)
     random.shuffle(priorities)
-    
+
     print(f"Generating {n} records...")
-    
+
     for i, prioritas in enumerate(priorities):
         if (i+1) % 200 == 0:
-            print(f"Progress: {i+1}/{n}")
-        
-        judul = random.choice(TEMPLATES[prioritas]['judul'])
-        desc = random.choice(TEMPLATES[prioritas]['deskripsi'])
-        deskripsi = desc.format(n=random.randint(2, 12))
-        
-        if prioritas == 'Tinggi':
-            kategori = random.choice(['Gangguan Jaringan', 'Gangguan Sistem'])
-            pelanggan = random.choices(PELANGGAN, weights=[0.2, 0.6, 0.2])[0]
-        else:
-            kategori = random.choice(KATEGORI)
-            pelanggan = random.choice(PELANGGAN)
-        
-        days_ago = random.randint(0, 60)
-        waktu = datetime.now() - timedelta(days=days_ago)
-        
+            print(f"  Progress: {i+1}/{n}")
+
+        t = TEMPLATES[prioritas]
+        judul = random.choice(t['judul'])
+        deskripsi = random.choice(t['deskripsi']).format(n=random.randint(1, 14))
+        kategori = random.choice(t['kategori_gangguan'])
+        pelanggan = weighted_choice(t['kategori_pelanggan_weights'])
+
+        # Noise 8%: simulasi human error labeling
+        if random.random() < 0.08:
+            noise_map = {'Tinggi': 'Sedang', 'Sedang': random.choice(['Tinggi', 'Rendah']), 'Rendah': 'Sedang'}
+            prioritas = noise_map[prioritas]
+
+        days_ago = random.randint(0, 90)
+        waktu = datetime.now() - timedelta(days=days_ago, hours=random.randint(0, 23))
+
         data.append({
             'judul': judul,
             'deskripsi': deskripsi,
@@ -95,20 +109,27 @@ def generate_dataset(n=1000):
             'waktu_lapor': waktu.strftime('%Y-%m-%d %H:%M:%S'),
             'prioritas': prioritas
         })
-    
+
     return pd.DataFrame(data).sample(frac=1).reset_index(drop=True)
 
 if __name__ == "__main__":
+    print("=" * 50)
+    print("GENERATING DUMMY DATASET")
+    print("=" * 50)
+
     df = generate_dataset(1000)
-    df.to_csv("training_data.csv", index=False)
-    
+
+    # Simpan ke folder yang sama dengan script ini
+    output_path = os.path.join(os.path.dirname(__file__), "training_data.csv")
+    df.to_csv(output_path, index=False)
+
     print()
-    print("="*50)
+    print("=" * 50)
     print("✅ DATASET GENERATED!")
-    print("="*50)
-    print(f"\nTotal: {len(df)} rows")
-    print("\nDistribution:")
+    print("=" * 50)
+    print(f"Total     : {len(df)} rows")
+    print(f"File      : {output_path}")
+    print("\nDistribusi:")
     print(df['prioritas'].value_counts())
     print("\nSample:")
-    print(df.head())
-    print(f"\nFile: training_data.csv")
+    print(df.head(3))
